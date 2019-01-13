@@ -2336,32 +2336,35 @@ under shelter the river.
 We have calculated the number of men strictly
 neccesary to defend the city of Carcassonne.
 
-++-----------------------------------------------+----------+
-+| The outward walls of the city possesses 14    |          |
- | towers; supposing each guarded by 20 men, it  |          |
- | comes to                                      |  280 men |
- |                                               |          |
-+| Twenty men in each of the three barbicans.    |   60     |
- |                                               |          |
-+| To defend the curtains on the points attacked |  100     |
- |                                               |          |
-+| The inward walls include 24 towers with       |          |
- | 20 men for each post; on an average           |  480     |
- |                                               |          |
-+| For the « Porte Narbonnaise »                 |   50     |
- |                                               |          |
-+| To guard the curtains                         |  100     |
- |                                               |          |
-+| Fort the castle-garrison                      |  200     |
-+|                                               | ----     |
-+|                                               | 1270     |
- |                                               |          |
-+| Let us add to that number of men the          |          |
- | captains, one for a post or for a tower,      |          |
- | according to the custom                       |   53     |
-+|                                               | ----     |
-+|                                               | 1323     |
-++-----------------------------------------------+----------+
+++-----------------------------------------------+-----------+
+@|<                                             v|.    :    v|
++| The outward walls of the city possesses 14    |           |
+ | towers; supposing each guarded by 20 men, it  |           |
+ | comes to                                      |   280 men |
+ |                                               |           |
++| Twenty men in each of the three barbicans.    |    60     |
+ |                                               |           |
++| To defend the curtains on the points attacked |   100     |
+ |                                               |           |
++| The inward walls include 24 towers with       |           |
+ | 20 men for each post; on an average           |   480     |
+ |                                               |           |
++| The inward walls include 24 towers with       |           |
+ | 20 men for each post; on an average           |   480     |
+ |                                               |           |
++| For the « Porte Narbonnaise »                 |    50     |
+ |                                               |           |
++| To guard the curtains                         |   100     |
+ |                                               |           |
++| Fort the castle-garrison                      |   200     |
++|                                               | -----     |
++|                                               |  1270     |
++| Let us add to that number of men the          |           |
+ | captains, one for a post or for a tower,      |           |
+ | according to the custom                       |    53     |
++|                                               | -----     |
++|                                               |  1323     |
+++-----------------------------------------------+-----------+
 
 Only the fighting-men are in question here; but we
 must add to those numbers the servants, the workmen
