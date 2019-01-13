@@ -49,6 +49,7 @@ class Formatter():
 #   ++-----+-----+-----+   <-- end of table
 #
 # New rows start with '+|'.
+# Continuation rows start with ' |'.
 # Cells are separated by '|' (except for start/end table, which use '+')
 # Cell data can span multiple rows.
 class TableParser():
@@ -89,14 +90,18 @@ class TableParser():
 			self.curr_row[i] += Formatter.format(data[i])
 		self.valid_row = True
 	
-	# Formatting info:
-	# Formatting line has alignment info for each column:
+	# Alignment info:
+	# Horizontal alignment is typically inferred from the position of
+	# the text in the cell, but it can be explicitly specified using
+	# an alignment line:
 	#   @|H        V|
 	#
 	# H = horizontal alignment:
-	#     '<' (left), ':' (center), '.' (split), '>' (right)
+	#     '<' (left), ':' (center), '.' (split), '>' (right), ' ' (infer)
 	# V = vertical alignment:
 	#     '^' (top), '-' (center), 'v' (bottom)
+	#
+	# By default, H = ' ' and V = '^'
 	#
 	# The 'split' horizontal alignment requires that a split point be specified
 	# with ':':
@@ -104,8 +109,10 @@ class TableParser():
 	#   +|    20    |
 	#   +|  1370    |
 	#   +|     0.5  |
-	def record_formatting_info(self, line):
-		# Ignore formatting info for now.
+	# Everything up to and including the split point will be right-aligned
+	# and everything after the split point will be left aligned.
+	def record_alignment_info(self, line):
+		# Ignore alignment info for now.
 		pass
 		
 	# Return True when the last line of the table is read.
@@ -124,7 +131,7 @@ class TableParser():
 		elif prefix == ' |':
 			self.add_line_to_row(line)
 		elif prefix == '@|':
-			self.record_formatting_info(line)
+			self.record_alignment_info(line)
 		else:
 			self.parent.error('Unrecognized table line')
 			
