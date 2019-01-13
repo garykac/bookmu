@@ -6,12 +6,142 @@ import os.path
 import re
 import sys
 
-def error(msg):
-	print 'Error: %s' % (msg)
-	sys.exit(1)
+class Formatter():
+	@staticmethod
+	def format(str):
+		# Handle {_xxx_} for italics.
+		m = re.match(r'^(.*)\{_(.+?)_\}(.*)$', str)
+		if m:
+			pre = m.group(1)
+			content = m.group(2)
+			post = m.group(3)
+			str = Formatter.format(pre)
+			str += '<i>' + Formatter.format(content) + '</i>'
+			str += Formatter.format(post)
+
+		# Convert 3 or more dashes into a long dash.
+		m = re.match(r'^(?P<pre>.*[^-])?(?P<dashes>[-]{3,})(?P<post>[^-].*)?$', str)
+		if m:
+			pre = m.group('pre')
+			dashes = m.group('dashes')
+			post = m.group('post')
+			str = ''
+			if pre:
+				str += Formatter.format(pre)
+			str += '<span class="longdash">' + ('–' * len(dashes)) + '</span>'
+			if post:
+				str += Formatter.format(post)
+			
+		# Handle {/} for line break.
+		str = str.replace("{/}", "<br/>")
+
+		# Force non-breaking spaces around some punctuation.
+		str = str.replace("« ", "«&nbsp;")
+		str = str.replace(" »", "&nbsp;»")
+
+		return str
+
+# Tables are structured as follows:
+#   ++-----+-----+-----+   <-- start of table
+#   +| x1  | x2  | x3a |   <-- start of row 1 'x'
+#    |     |     | x3b |
+#   +| y1  | y2  | y3  |   <-- start of row 2 'y'
+#   ++-----+-----+-----+   <-- end of table
+#
+# New rows start with '+|'.
+# Cells are separated by '|' (except for start/end table, which use '+')
+# Cell data can span multiple rows.
+class TableParser():
+	"""Parser for table in BookMu."""
+	def __init__(self, parser):
+		self.parent = parser
+		self.reset()
+
+	def reset(self):
+		self.data = []
+		self.num_cols = 0
+		self.formatting = []
+		self.reset_row()
+	
+	def reset_row(self):
+		self.curr_row = ['' for i in range(0, self.num_cols)]
+		self.valid_row = False
+
+	def start_table(self, line):
+		cols = line[2:-1].split('+')
+		self.num_cols = len(cols)
+		self.reset_row()
+	
+	def end_table(self):
+		self.add_row_to_table()
+
+	def add_row_to_table(self):
+		if not self.valid_row:
+			return
+		self.data.append(self.curr_row)
+		self.reset_row()
+		
+	def add_line_to_row(self, line):
+		data = line[2:-1].split('|')
+		if len(data) != self.num_cols:
+			self.parent.error('Incorrect num of columns in table row')
+		for i in range(0, self.num_cols):
+			self.curr_row[i] += Formatter.format(data[i])
+		self.valid_row = True
+	
+	# Formatting info:
+	# Formatting line has alignment info for each column:
+	#   @|H        V|
+	#
+	# H = horizontal alignment:
+	#     '<' (left), ':' (center), '.' (split), '>' (right)
+	# V = vertical alignment:
+	#     '^' (top), '-' (center), 'v' (bottom)
+	#
+	# The 'split' horizontal alignment requires that a split point be specified
+	# with ':':
+	#   @|.    :   v|
+	#   +|    20    |
+	#   +|  1370    |
+	#   +|     0.5  |
+	def record_formatting_info(self, line):
+		# Ignore formatting info for now.
+		pass
+		
+	# Return True when the last line of the table is read.
+	def process_line(self, line):
+		m = re.match(r'^\+\+[-+]+\+', line)
+		if m:
+			self.end_table()
+			return True
+
+		if '\t' in line:
+			self.parent.error('Tab characters are not allowed in tables')
+		
+		prefix = line[0:2]
+		if prefix == '+|':
+			self.add_row_to_table()
+		elif prefix == ' |':
+			self.add_line_to_row(line)
+		elif prefix == '@|':
+			self.record_formatting_info(line)
+		else:
+			self.parent.error('Unrecognized table line')
+			
+		return False
+	
+	def generate_html(self):
+		html = '<table class="dataTable">'
+		for row in self.data:
+			html += '<tr>'
+			for col in row:
+				html += '<td>%s</td>' % re.sub(r'[ \t]+', ' ', col).strip()
+			html += '</tr>'
+		html += '</table>'
+		return html
 
 class Parser():
-	"""Build script for texts"""
+	"""Build script for parsing BookMu texts."""
 
 	def __init__(self):
 		self.page_num = None
@@ -28,58 +158,32 @@ class Parser():
 		# Dictionary with count of all words found in doc.
 		self.dict = {}
 		
+		self.table = TableParser(self)
+		self.in_table = False
+		
+	def error(self, msg):
+		print 'Error (line %d): %s' % (self.line_num, msg)
+		print 'Line: %s' % self.curr_line
+		sys.exit(1)
+
 	def reset_paragraph(self):
 		self.in_paragraph = False
-		self.paragraph_class = ""
 		self.paragraph = []
 
 	def reset_note(self):
 		self.in_note = False
 		self.note = []
 
-	# Paragraph level formatting.
-	# These formatting marks must be at the beginning/end of the paragraph.
-	def paragraph_format(self, str):
-		# Handle {"xxx"} for blockquote
-		m = re.match(r'^\{"(.+)"\}$', str)
-		if m:
-			pre = m.group(1)
-			content = m.group(2)
-			post = m.group(3)
-			self.paragraph_class = "blockquote"
-			str = self.paragraph_format(content)
-
-		return str
-
-	def format(self, str):
-		# Handle {_xxx_} for italics.
-		m = re.match(r'^(.*)\{_(.+?)_\}(.*)$', str)
-		if m:
-			pre = m.group(1)
-			content = m.group(2)
-			post = m.group(3)
-			str = self.format(pre) + '<i>' + self.format(content) + '</i>' + self.format(post)
-
-		# Handle {/} for line break.
-		str = str.replace("{/}", "<br/>")
-
-		return str
-	
 	def write_paragraph(self):
 		text = ' '.join([x.strip() for x in self.paragraph])
-		text = self.format(text)
-		text = text.replace("« ", "«&nbsp;")
-		text = text.replace(" »", "&nbsp;»")
+		text = Formatter.format(text)
 
 		if '{' in text or '}' in text:
-			error("Unhandled { brace }: " + text)
+			self.error("Unhandled { brace }: " + text)
 	
 		self.paragraph_id += 1
 		id = self.paragraph_id
-		p_class = ""
-		if self.paragraph_class == "blockquote":
-			p_class = ' class="blockquote"'
-		self.outfile.write('<p id="b%d"%s><a class="plink" href="#b%d"></a>' % (id, p_class, id))
+		self.outfile.write('<p id="b%d"><a class="plink" href="#b%d"></a>' % (id, id))
 		self.outfile.write(text + '</p>\n')
 
 		self.reset_paragraph()
@@ -94,15 +198,19 @@ class Parser():
 		self.paragraph.append(note)
 		self.reset_note()
 
+	def write_table(self):
+		self.outfile.write(self.table.generate_html())
+		self.outfile.write('\n')
+		
 	def record_page_num(self, page_num):
 		if self.page_num != None or self.add_page_num:
-			error('Unprocessed page number: %s' % self.page_num)
+			self.error('Unprocessed page number: %s' % self.page_num)
 		self.page_num = page_num
 		self.add_page_num = True
 	
 	def calc_page_num_link(self):
 		if not self.add_page_num:
-			error('Attempting to add undefined page num')
+			self.error('Attempting to add undefined page num')
 		p = int(self.page_num)
 
 		# Reset page num when we calc the link.
@@ -113,24 +221,40 @@ class Parser():
 
 	# Process an entire line from the file.
 	def process_line(self, line):
-		initial_tab = len(line) != 0 and line[0] == '\t'
-		line = line.strip()
+		self.line_num += 1
+		self.curr_line = line
+		line = line.rstrip()
 
 		# Process comments.
 		m = re.match(r'^--', line)
 		if m:
 			# Page number.
-			m = re.match(r'--page (\d+)\s*$', line)
+			# Note that page numbers can occur in the middle of a paragraph.
+			m = re.match(r'^--page (\d+)\s*$', line)
 			if m:
 				self.record_page_num(m.group(1))
+				return
+
+			m = re.match(r'^---$', line)
+			if m:
+				if self.in_paragraph:
+					self.error('Horizontal rule lines may only occur between paragraphs: %s' % line)
+				self.outfile.write('<hr/>\n')
 				return
 
 			# All other '--' comments are ignored.
 			return
 
+		if self.in_table:
+			done = self.table.process_line(line)
+			if done:
+				self.write_table()
+				self.in_table = False
+			return
+		
 		# A figure in the text.
-		# Figures are added to the current paragraph, or a new paragraph
-		# is started.
+		# Figures are added to the current paragraph. If there is no current paragraph,
+		# a new one is started.
 		m = re.match(r'^{figure (large) "(.+)" "(.+)"}\s*$', line)
 		if m:
 			size = m.group(1)
@@ -143,7 +267,11 @@ class Parser():
 			self.in_paragraph = True
 			return
 
-		# A title may only occur in the frontmatter section.
+		# ----------------
+		# Frontmatter tags
+		# ----------------
+		# These should only occur in the frontmatter section at the start of the document.
+		
 		m = re.match(r'^{title (x-small|small|medium|large) "(.+)"}\s*$', line)
 		if m:
 			size = m.group(1)
@@ -158,22 +286,27 @@ class Parser():
 			self.outfile.write('<div class="frontmatter frontmatter-%s"/>%s</div>\n' % (size, title))
 			return
 
+		# ---------------
+		# Footnote markup
+		# ---------------
+		# These should only occur within a paragraph.
+		
 		# Footnotes/endnotes.
 		# Must be indented with tab.
-		if initial_tab:
- 			mNote = re.match(r'^\{\^(.+)\^\}$', line)
+		if len(line) != 0 and line[0] == '\t':
+ 			mNote = re.match(r'^\t\{\^(.+)\^\}$', line)
 			if mNote:
 				self.note.append(mNote.group(1))
 				self.write_note()
 				return
 			else:
-				mNoteStart = re.match(r'^\{\^(.+)$', line)
+				mNoteStart = re.match(r'^\t\{\^(.+)$', line)
 				if mNoteStart:
 					self.note.append(mNoteStart.group(1))
 					self.in_note = True
 					return
 				
-				mNoteEnd = re.match(r'^(.+)\^\}$', line)
+				mNoteEnd = re.match(r'^\t(.+)\^\}$', line)
 				if mNoteEnd:
 					self.note.append(mNoteEnd.group(1))
 					self.write_note()
@@ -182,15 +315,20 @@ class Parser():
 				self.note.append(line)
 				return;
 			
-			error("Unexpected tab-indent line: " + line)
-				
+			self.error("Unexpected tab-indent line: " + line)
+
+		# --------------
+		# Top-level tags
+		# --------------
+		# These should only occur outside a paragraph.
+		
 		# Section heading.
 		m = re.match(r'^{section "(.+)"}\s*$', line)
 		if m:
 			section_name = m.group(1)
 
 			if self.in_paragraph:
-				error('Section tags may only occur between paragraphs: %s' % filename)
+				self.error('Section tags may only occur between paragraphs: %s' % line)
 			self.section_id += 1
 			self.outfile.write('<h1 id="s%d">' % (self.section_id))
 			if self.add_page_num:
@@ -206,10 +344,28 @@ class Parser():
 			filename = m.group(2)
 
 			if self.in_paragraph:
-				error('Image tags may only occur between paragraphs: %s' % filename)
+				self.error('Image tags may only occur between paragraphs: %s' % line)
 			self.outfile.write('<a href="img/%s.jpg"><img src="img/%s.png" class="block-image-%s"/></a>\n' % (filename, filename, size))
 			return
 		
+		# ------------
+		# Table markup
+		# ------------
+
+		m = re.match(r'^\+\+[-+]+\+', line)
+		if m:
+			# Start new table
+			self.in_table = True
+			self.table.reset()
+			self.table.start_table(line)
+			return
+		
+		# ------------------
+		# Paragraph handling
+		# ------------------
+		# Fall-through case to handle basic paragraph text.
+		
+		line = line.lstrip()		
 		if line == '':
 			if self.in_paragraph:
 				self.write_paragraph()
@@ -243,20 +399,21 @@ class Parser():
 
 	def process(self, src, dst):
 		if not os.path.isfile(src):
-			error('File "%s" doesn\'t exist' % src)
+			self.error('File "%s" doesn\'t exist' % src)
 
 		try:
 			infile = open(src, 'r')
 		except IOError as e:
-			error('Unable to open "%s" for reading: %s' % (src, e))
+			self.error('Unable to open "%s" for reading: %s' % (src, e))
 
 		try:
 			outfile = open(dst, 'w')
 		except IOError as e:
-			error('Unable to open "%s" for writing: %s' % (dst, e))
+			self.error('Unable to open "%s" for writing: %s' % (dst, e))
 
 		self.outfile = outfile
 		self.write_html_header('City of Carcassonne')
+		self.line_num = 0
 		for line in infile:
 			self.process_line(line)
 		self.write_html_footer()
@@ -279,7 +436,7 @@ class Parser():
 		try:
 			outfile = open(dst, 'w')
 		except IOError as e:
-			error('Unable to open "%s" for writing: %s' % (dst, e))
+			self.error('Unable to open "%s" for writing: %s' % (dst, e))
 
 		for word in sorted(self.dict, key=self.dict.get, reverse=True):
 			outfile.write('%d %s\n' % (self.dict[word], word))
@@ -298,7 +455,8 @@ def load_config(file):
 	try:
 		config_file = open(file, 'r')
 	except IOError as e:
-		error('Unable to open config file "%s": %s' % (file, e))
+		print('Error - Unable to open config file "%s": %s' % (file, e))
+		sys.exit(1)
 	
 	for line in config_file:
 		line = line.strip()
