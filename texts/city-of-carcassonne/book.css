@@ -1,0 +1,346 @@
+@charset "UTF-8";
+
+html {
+	font-size: 22px;
+	font-family: 'Old Standard TT', Palatino, Georgia, serif;
+}
+
+body {
+	background-color: #80fcfa;
+	margin: auto;
+	color: #181818;
+	width: 90%;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	width: 70%;
+	margin: auto;
+	max-width: 650px;
+}
+
+.title {
+	display: block;
+	margin: auto;
+	text-align: center;
+	margin: 0.4rem 0;
+}
+
+.frontmatter {
+	display: block;
+	margin: auto;
+	text-align: center;
+	margin: 0.2rem 0;
+}
+
+.frontmatter-x-small {
+	font-weight: 400;
+	font-size: 1rem;
+}
+
+.frontmatter-small {
+	font-weight: 400;
+	font-size: 1.2rem;
+}
+
+.frontmatter-medium {
+	font-weight: 400;
+	font-size: 2rem;
+}
+
+.frontmatter-large {
+	font-weight: 400;
+	font-size: 3rem;
+}
+
+h1 {
+	font-weight: 400;
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+	font-size: 2rem;
+	line-height: 1;
+	text-align: center;
+}
+
+h2 {
+	font-style: italic;
+	font-weight: 400;
+	margin-top: 2.1rem;
+	margin-bottom: 1.4rem;
+	font-size: 1.5rem;
+	line-height: 1;
+}
+
+h3 {
+	font-style: italic;
+	font-weight: 400;
+	margin-top: 2rem;
+	margin-bottom: 1.4rem;
+	font-size: 1.2rem;
+	line-height: 1;
+}
+
+hr {
+	display: block;
+	height: 1px;
+	width: 55%;
+	margin: 1rem auto;
+	padding: 0;
+
+	border: 0;
+	border-top: 1px solid rgba(1,1,1,0.25);
+}
+
+
+p {
+	vertical-align: baseline;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	padding-left: 0.7rem;  /* To make room for paragraph link floated on left. */
+	padding-right: 0;
+	font-size: 1rem;
+	line-height: 1.4rem;
+}
+
+/* Used to combine a series of mdashes into a single long dash. */
+.longdash {
+	letter-spacing: -0.15rem;
+}
+
+/* Links
+ * Displayed as the same color as the surrounding text with a light
+ * underline.
+ */
+ 
+a:link, a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover:not(.plink) {
+	background-color: rgba(0,0,0,0.1);  /* Darken for highlighting. */
+}
+
+/* Paragraph (and section) links. */
+
+.plink {
+	position: relative;
+	width: 0;
+	height: 0;
+	left: -1rem;
+	/*display: none;*/
+	display: block;
+}
+
+.plink::before {
+	/* link light */
+	content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAzUExURQAAANnZ2djY2NjY2NjY2NjY2NjY2NjY2OHh4djY2NjY2NjY2NnZ2djY2NjY2NnZ2djY2Luuz5EAAAAQdFJOUwCG9BzvdEChAza9z0lO3o40SOIJAAAAgElEQVQY002PURLEIAhDQRFF207uf9oCo93lQ3mZGJDo1N1nt49odES1Py5NGbDDItEy+hZqHXErZmITYKl3LR2R97ikZAVXsigNXmaSBmezxYMuZ0+6UYwMkAfJbohldLnUctJExFPdg8PBfpqUvgV/ztoKDscyUT92j//7+ugF2qQFWynJYqMAAAAASUVORK5CYII=");
+}
+
+.plink:hover::before {
+	/* link dark
+	content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAwUExURQAAAFRUVFNTU1RUVFRUVFRUVFRUVFNTU1NTU1RUVFRUVFRUVFRUVFVVVVVVVVRUVCnj6OEAAAAPdFJOUwAENu+cpnQ/htT0HL1IToQvc1sAAACCSURBVBjTRY9bFgQRDEQjD0LTtf/djqBNPsh1UqVC9NVrXfkSJUVUvmxouTjwzahItA49A8+T4i7oi7MAtUQD23rU+VSIG8ZiGZS8MsuyUAhz9URDYNPpRWNiQCoWk60wZaLsVB1hT8/5OCx8niztRAq5l9y2fqdaW2n6L8rabVz6AXf0BKsXcx4wAAAAAElFTkSuQmCC");
+	*/
+	/* link med */
+	content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAtUExURQAAAJCQkIGBgYCAgICAgICAgICAgICAgICAgICAgICAgIKCgoGBgYCAgICAgOn25k0AAAAOdFJOUwADNuycpnTGP4b0HEhOdJGE8wAAAIFJREFUGNNFj0EWxCAIQxEQ1Nrc/7iDaB0Wyo8vQYi+eqsrX6KiWGWXK4a1DvD3LrLaDj3C85R1N3iiCeAtOkPdfkhIjXhgJsuk0p1ZMkIhzN4LTUGNpBeDibdpMdX8TPOQLCc5Vjw9Z/CK6HGyDD1C2Huzsf1Zlltp+S/K6nVe+gFTYwRmqvmk5wAAAABJRU5ErkJggg==");
+}
+
+p:hover .plink {
+	display: block;
+}
+
+@media (max-width: 760px) {
+	p:hover .plink {
+		display: none;
+	}
+}
+
+.off {
+	text-height: 1px;
+}
+
+/* Page numbers */
+
+.pagenum {
+	position: relative;
+	float: left;
+	clear: left;
+	vertical-align: baseline;
+
+	width: 0;
+	margin-left: -15%;
+
+	font-size: 0.7rem;
+}
+
+@media (max-width: 760px) {
+	.pagenum {
+		display: none;
+	}
+}
+
+/* Images and Figures
+ */
+
+.figure {
+	float: left;
+	clear: left;
+	margin: 0;
+	padding: 15px;
+	text-align: center;
+	width: 100%;
+	max-width: 650px;
+	font-size: 0;  /* To avoid extra space added at bottom (for text decenders). */
+}
+
+.caption {
+	font-size: 0.7rem;
+}
+
+.block-image-small {
+	display: block;
+	margin: 2rem auto;
+	width: 30%;
+}
+
+.block-image-large {
+	width: 100%;
+}
+
+/* Notes
+ *
+ * Notes are added as inline spans.
+ * To add an auto-numbered note:
+ *   <label for="note-id" class="note-label"></label><input type="checkbox" id="note-id" class="note-checkbox">
+ * where "note-id" is unique for each note.
+ *
+ * How this works:
+ *   The note indicator is actually a checkbox label. The indicators are
+ *     auto-numbered.
+ *   The label is linked with the checkbox so that clicking on the label is the
+ *     same as clicking on the checkbox.
+ *   The actual checkbox is hidden (so only the label is shown).
+ *   For wide displays:
+ *     The checkbox state is ignored and the note is always floated to the right.
+ *   For narrow displays:
+ *     The note is hidden unless the checkbox is checked.
+ *     When checked, the note is displayed as a block element.
+ *
+ * Adapted from: https://github.com/edwardtufte/tufte-css
+ */
+
+body {
+	counter-reset: note-counter;
+}
+
+.note-label {
+	display: inline;
+	counter-increment: note-counter;
+	cursor: pointer;
+}
+
+.note-label:after {
+	position: relative;
+	vertical-align: baseline;
+
+	top: -0.3rem;
+	left: -0.2rem;  /* There is always whitespace before the note, so we can slide over a bit. */
+	font-size: 0.7rem;
+	content: counter(note-counter);
+}
+
+.note-checkbox {
+	display: none;
+}
+
+.note {
+	position: relative;
+	float: right;
+	clear: right;
+	vertical-align: baseline;
+
+	width: 30%;
+	margin-right: -35%;
+	margin-bottom: 1.5rem;
+	padding: 0;
+	max-height: 7rem;
+	overflow-y: auto;
+
+	font-size: 0.7rem;
+	line-height: 1.2;
+}
+
+.note:before {
+	position: relative;
+	content: counter(note-counter) "\a0\a0 ";  /* Force extra space before note number. */
+	vertical-align: baseline;
+}
+
+.note-checkbox:checked + .note {
+	display: block;
+	position: relative;
+	float: left;
+	clear: both;
+	vertical-align: baseline;
+
+	width: 80%;
+	margin: 0;
+	padding: 0.5rem 10%;
+	max-height: none;
+	overflow-y: visible;
+}
+
+@media (max-width: 760px) {
+	.note {
+		display: none;
+	}
+}
+
+/* Long footnotes are common in some 19th century texts.
+ * Since notes are implemented as inline spans, we need to turn
+ * note paragraphs into display:block spans so that they act more
+ * like divs (except for the 1st child so that it stays with the
+ * note number).
+ *
+ * Structure should be (immediately after the <label><input> tags):
+ *   <span class="note">
+ *     <span class="notep">...</span>
+ *     <span class="notep">...</span>
+ *   </span>
+ *
+ * Single paragraph notes can be written as simply:
+ *   <span class="note">...</span>
+ */
+.notep {
+	padding: 0.3rem 0 0.3rem 0;
+}
+
+.notep:not(:first-child) {
+	display: block;
+}
+
+/* Tables */
+
+table.dataTable {
+	width: 90%;
+	margin: 1rem auto;
+}
+
+table.dataTable td {
+	padding: 0.25rem 0;
+}
+
+@media (max-width: 760px) {
+	body {
+		width: 100%;
+	}
+
+	p {
+		padding-left: 0;
+	}
+	
+	.container {
+		width: 95%;
+	}
+}
