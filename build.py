@@ -128,6 +128,7 @@ class TableParser():
 		prefix = line[0:2]
 		if prefix == '+|':
 			self.add_row_to_table()
+			self.add_line_to_row(line)
 		elif prefix == ' |':
 			self.add_line_to_row(line)
 		elif prefix == '@|':
@@ -154,6 +155,9 @@ class Parser():
 		self.page_num = None
 		self.add_page_num = False
 
+		self.line_num = None
+		self.curr_line = None
+		
 		self.section_id = 0
 
 		self.paragraph_id = 0
@@ -169,8 +173,11 @@ class Parser():
 		self.in_table = False
 		
 	def error(self, msg):
-		print 'Error (line %d): %s' % (self.line_num, msg)
-		print 'Line: %s' % self.curr_line
+		if self.line_num and self.curr_line:
+			print 'Error (line %d): %s' % (self.line_num, msg)
+			print 'Line: %s' % self.curr_line
+		else:
+			print 'Error: %s' % (msg)
 		sys.exit(1)
 
 	def reset_paragraph(self):
@@ -485,39 +492,29 @@ def load_config(file):
 def main():
 	try:
 		opts, args = getopt.getopt(sys.argv[1:],
-			'c:dv',
-			['config=', 'dict', 'verbose'])
+			'dv',
+			['dict', 'verbose'])
 	except getopt.GetoptError:
 		usage()
 		exit()
 
-	config_file = None
 	write_dict = False
 	verbose = False
 	
 	for opt, arg in opts:
-		if opt in ('-c', '--config'):
-			config_file = arg
-		elif opt in ('-d', '--dict'):
+		if opt in ('-d', '--dict'):
 			write_dict = True
 		elif opt in ('-v', '--verbose'):
 			verbose = True
 
-	if config_file:
-		config = load_config(config_file)
-	else:
-		# Default configuration
-		config = {}
-		config['output_file'] = 'out.html'
-	#print config
-		
 	# The raw input file (with the Plotto text).
-	infilename = 'cityofcarcassonn00viol.txt'
+	infilename = 'texts/city-of-carcassonne/cityofcarcassonn00viol.txt'
+	outfilename = 'texts/city-of-carcassonne/out.html'
 
-	print 'Building', config['output_file'], '...'
+	print 'Building', outfilename, '...'
 	
 	parser = Parser()
-	parser.process(infilename, config['output_file'])
+	parser.process(infilename, outfilename)
 	if write_dict:
 		parser.write_dict()
 	
