@@ -1,0 +1,12 @@
+Formatting rules
+
+space before and after emdash: – 
+No space before : or ;
+
+Spaces around paragraph level markup
+{^ footnote ^}
+{" blockquote "}
+
+Special characters
+
+{/} - line break: <br/>

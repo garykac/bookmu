@@ -1,0 +1,5791 @@
+
+
+--page 1
+
+DESIGNS 
+
+FOR 
+
+Parish Churches,
+
+IN THE THREE STYLES OF 
+
+English Church Architecture;
+
+WITH AN 
+
+ANALYSIS OF EACH STYLE; A REVIEW OF THE NOMENCLATURE OF THE 
+
+PERIODS OF ENGLISH GOTHIC ARCHITECTURE, AND SOME 
+
+REMARKS INTRODUCTORY TO CHURCH BUILDING, 
+
+EXEMPLIFIED IN A SERIES OF 
+
+OVER ONE HUNDRED ILLUSTRATIONS. 
+
+BY
+
+J. COLEMAN HART, Architect 
+
+"Taste and art, rejecting heathen mould, 
+Shall draw their types from Europe's middle night,
+Well pleased if such good darkness be their light."
+
+
+
+New York:
+
+DANA AND COMPANY.
+
+No. 381 BROADWAY. 
+
+1857. 
+
+
+--page 2
+
+
+Entered in conformity with an Act of Congress, entitled “An Act to amend the several 
+Acts respecting copy-rights,” in the year Anno Domini, 1856, 
+
+By J. COLEMAN HART, 
+
+In the Clerk’s Office of the Southern District of New York. 
+
+
+--page 3
+
+Contents. 
+
+
+Preface 5 
+
+Introduction— 
+
+The Origin of English Gothic Architecture . . . .11 
+
+Orientation 15 
+
+Plan 18 
+
+Material 24 
+
+Entrance 27 
+
+Chancel 31 
+
+Gallery 35 
+
+Pew 38 
+
+Altar 40 
+
+Sedilia 42 
+
+Piscina 43 
+
+Font 43
+
+Pulpit 46
+
+Lectern 49 
+
+Warming and Ventilating 50 
+
+Canons of Gothic Composition 55
+
+
+Nomenclature 69 
+
+Analysis of the Early English Style— 
+
+Chronology 65 
+
+Doorways 66 
+
+Windows 68 
+
+Piers 71 
+
+Arches 72 
+
+Buttresses 73
+
+Moldings 74 
+
+Roofs 75 
+
+Description of the Plates of the Early English Style
+
+Design I 78 
+
+Dimensions 78 
+
+Number of Sittings 79 
+
+--page 4
+
+Design II 79 
+
+Dimensions 79 
+
+Number of Sittings 80 
+
+Analysis of the Decorated English Style—
+
+Chronology 81 
+
+Doorways 83 
+
+Windows 85 
+
+Piers and Arches 87 
+
+Buttresses 88 
+
+Moldings 89 
+
+Roofs 90 
+
+Description of the Plates of the Decorated English Style— 
+
+Design III 93 
+
+Dimensions 93 
+
+Number of Sittings 94 
+
+Design IV 94 
+
+Dimensions 94 
+
+Number of Sittings 95
+
+Analysis of the Perpendicular English Style— 
+
+Chronology 97 
+
+Doorways 100 
+
+Windows 102 
+
+Piers and Arches 104 
+
+Buttresses 104 
+
+Moldings 105 
+
+Roofs 106 
+
+Description of the Plates of the Perpendicular English Style— 
+
+Design V 109 
+
+Dimensions 109 
+
+Number of Sittings 110 
+
+Design VI 110 
+
+Dimensions 110 
+
+Number of Sittings 111 
+
+--page 5
+
+Preface
+
+MANY valuable works have been published in 
+England on its Medieval Architecture, from 
+which students who have not facilities for 
+visiting its shores, adorned with all that is 
+beautiful and instructive in Gothic Architecture,
+have been enabled to form some idea of what it 
+really is. 
+
+Books have been printed for their assistance, exhibiting 
+the chronologically arranged periods and analyses of the 
+styles into which Gothic Architecture has been divided, and 
+elucidating the architectural peculiarities incident to these 
+several periods, which differ so much as to allow of distinct 
+classifications – consequently making the study of Gothic 
+Architecture as clear and comprehensive as that of the Grecian
+or Roman. 
+
+In this labor – it might be said of love – English writers 
+particularly have been very successful and greatly appreciated;
+and various Archæological and Ecclesiological societies,
+actuated by zealous motives, justly priding themselves 
+upon the architectural beauties among which they live, knowing
+their great value as studies, and desiring the student to 
+become thoroughly conversant with them as such, with a view 
+to the improvement of modern Church Architecture, have 
+--page 6
+delineated and published from time to time various works 
+on Medieval Church Architecture of inestimable value, which 
+we cannot too highly eulogize. Thus the student who cannot 
+enjoy practical studies of Old English examples as they exist, 
+becomes every day more and more indebted to the authors 
+of these valuable and important works. 
+
+Owing to the difficulties of research, the time required and 
+the labor attending the delineation of the illustrations of these 
+works, and the great expense necessary to their production 
+in this country, their issue is mostly confined to the larger 
+cities; and the rural student does not therefore receive his 
+quota of the benefits that were graciously intended for him. 
+
+The nice discrimination required in studying in this manner 
+the Architecture of Medieval buildings, as very few of them 
+are free from a mixture of all the styles of Gothic Architecture,
+renders the use of any one of these styles – necessary 
+to be taken from many studies to perfect a pure design – 
+seriously difficult. 
+
+Anomalies which are constantly seen in rural parishes are 
+the unmistakable consequences; and "however correct" the 
+student's "taste, or keen his perception of real beauty, he 
+could not enter into the details, or understand {_why_} this was 
+curious and that peculiarly instructive as a specimen of its 
+kind. All would be a blank, from inability to divide and 
+particularize. He would regard it only as a whole."
+	{^ Paley's Manual.^}
+
+The vital principle of the study of Gothic Architecture, 
+as divided into the three great periods, namely, the Early 
+English, the Decorated English, and the Perpendicular English,
+--page 7
+is the imbodying either one of them in a complete 
+design unadulterated and free from admixture with the preceding
+or succeeding period.
+
+No author that I am aware of, in this country, has as yet 
+issued a publication based on this principle. The want, with 
+all the beautiful material at hand, should be relieved. It is 
+hoped that the student may find some hints of value to him 
+in this volume, which is a simple eflFort to supply a deficiency 
+in the area of Architectural publications. 
+
+In too many instances the erection of the parish church is 
+directly undertaken by the priest of the parish, or by a parishioner,
+aware of his incapacity in matters of church architecture,
+(when presumption has not the better part,) but 
+forced by circumstances, in his view of the case, to undertake 
+a commission of such vital importance to the spread of 
+Christianity and to Architecture as an art. 
+
+Far away from architects of ability, and knowing the incompetency
+of those around him, he seems to the uninitiated, 
+to be driven to this hopeless alternative; and what he produces
+is often misconceived and exceptionable in many particulars.
+As if to make architectural {_amende_} the quasi architect –
+and the class is daily increasing in number under the 
+present rule of things – shields himself behind apologies {_ad 
+libitum_}, devised with more of skill and truth to nature, than 
+are displayed in his works, which prove to be but the cenotaph
+of his absurdities, that know no transition save to a 
+horrible life everlasting. 
+
+Position and recognized ability in other than the architect's 
+vocation often favor the easy promulgation of these misconceptions
+and mal-inventions; and thus, old in ignorance, with 
+--page 8
+the air of "knowledge in all things," are foisted upon the 
+unwary a class of pretenders who degrade rather than encourage
+the study of Architecture in its legitimate sphere. 
+
+It is not an uncommon proceeding for parishioners to apply 
+to better skilled artists, at a distance, for their design, when 
+the erection of a church is projected, and console themselves 
+with the false idea that they have all that is required for so 
+holy an undertaking when inspecting the voluminous rolls of 
+designs transmitted to them. 
+
+It is just as important at this period that the erection of 
+the church proposed from such design should be under the 
+eye of the architect, as that the design should, in the first 
+instance, be good in itself; for if the recipient is competent 
+to carry out the architect's design, he underrates his abilities 
+when commissioning an architect at a distance to prepare the 
+design for him. 
+
+"The old builders possessed nothing but the sound intelligence
+of sensible men, and an aptness in practice exercised 
+from earliest youth. They lived more at the building place 
+than at home; thought of little else and did little else; and 
+thus they evidently succeeded much better than our well-grounded
+sages, who often bring into the world their left-handed
+productions, or tamely written pamphlets, and would 
+fain superintend the erection of buildings from their writing-desk." 
+	{^ Whewell's "Notes."^} 
+
+But how must this erroneous and too common practice be 
+obviated, and the proper attention given to the encouragement
+of {_bona fide_} architects, that there may be more fitness and 
+rubrical propriety in the erection of our parish churches? 
+
+--page 9
+
+An answer to this inquiry it is humbly presumed may be 
+found, to a slight extent, in the volume now presented to the 
+public; and should it tend in the smallest degree to the advancement
+of a proper understanding of Church Arcbitecture 
+and correct professional practice, the author will have discharged,
+however imperfectly, some small portion of his duty, 
+feeling that his humble efforts should be given to the diffusing 
+of a correct knowledge of this high and most noble study of 
+all art, Church Architecture. 
+
+"Would it were worthier." 
+
+J. COLEMAN HART, Architect. 
+167 Broadway, New York. 
+
+
+--figure Xxx
+
+
+--page 10
+
+--page 11
+
+Introduction. 
+
+"We may not be able to command good or beautiful, or inventive architecture; but 
+we can command an honest architecture: the meagerness of poverty may be pardoned, 
+the sternness of utility respected,"
+
+---
+
+AS it is intended that this work should be as 
+useful as the material at command will make 
+it, and not be confounded with archæological 
+dissertations and theories that are of interest 
+only in their proper spheres, it would not 
+become the object in view to endeavor to trace or theorize 
+upon the origin of the Architecture which is now under consideration;
+a cursory glance will be all that is necessary. 
+
+Much has already been said upon this very interesting subject.
+Great minds, versed in archæology, have grappled with 
+it and left no stone unturned, no twig its bent, no form its 
+rest; until the intersection of round mural arches, the grove 
+of the forest-trees with their knotty trunks and interlacing 
+branches, and the constructive necessity for elevating the 
+round arch to the pointed, have all been assumed as the suggestive
+origin of that Architecture – need I say the Gothic?
+	{^ Upon no subject of antiquity have so many discordant opinions been maintained,
+	as upon the origin of what is called Gothick Architecture.
+
+	"It is a fact concerning which controversy is no longer entertained, that the aboriginal 
+	Goths had no share either in the invention or perfection of that peculiar style of Architecture
+	which hears their name.
+	
+	By the Goths, no individual 
+	nation is alluded to, but the Northern conquerors in general, before they were incorporated
+	with the people they had subdued. Gothick, therefore, should be considered merely 
+	as a term to convey reproach to every thing in literature and arts, which was not strictly 
+	accordant with the antique model, adopted and applied by those who had introduced the 
+	restored Grecian." — {_Dallaway's Discourses upon Architecture in England_}. 
+
+	"In popular phraseology, we use the word Gothic to designate a class of unclassical 
+	architecture; and the term may not be objectionable as applied to the buildings of Sir 
+	Christopher Wren, and some later architects. Their structures have no order, nor yet 
+	system, or symmetry of style; but the {_Christian Architecture_} of the middle ages, from the 
+	Norman conquest to the dissolution of monasteries, is marked at every separate era by an 
+	unity, harmony, and distinctive concordance of parts." – {_Britton's Account of the Church of 
+	St, Luke, Chelsea. – Illustrations of the Public Buildings of London_}. 
+– which has filled the world with admiration and wonder. 
+
+--page 12
+
+It is of as little consequence to the architect in his practice 
+to know who invented the pointed arch, as it is for him to 
+know in which country Gothic Architecture first existed.
+At all events, in a historical point of view, with many valuable
+writings before him as instructive lessons, he will not need 
+to conjecture much or travel far, in order to find antecedents 
+or parallels to all his own fanciful theories perchance already 
+in existence. 
+
+If the southern part of Europe may be considered the 
+birth-place of the pointed arch, certainly the soil was not 
+very congenial to its development, and its beautiful fruits 
+and ramifications did not arrive at maturity until its transplanting
+was accomplished many years afterwards. 
+
+The late Thomas Hope, in his Historical Essay on Architecture,
+says, "Were I disposed to found a new theory on a 
+mere superficial resemblance, I might trace the last and most 
+luxuriant efflorescence of the Gothic style, not to the barbarians
+of the North, but to the most anciently civilized nations 
+of the South, – indeed of the terraqueous globe – to that nation
+to which we naturally look for every art and science of 
+--page 13
+which we cannot discern a later and nearer origin – to the 
+Hindoos." 
+
+So beautiful a feature in construction as the pointed arch, 
+with its acknowledged ascendency over all other forms of its 
+kind, in its easy adaptations without detriment to all situations 
+and requirements, and its fitness to express by symbolism 
+ritual ideas and devout aspirations, could not long remain 
+dormant. The seed of all Gothic art was not destined to 
+remain undeveloped. Germination proceeded and, as it 
+were, its pollen was quickly wafted by propitious winds 
+to remote countries north and west. It mingled with the 
+peculiar architecture of those countries, continued but a 
+brief while in transition, and from its nature, as the beautiful
+and useful will always predominate, it soon reared itself 
+upon the ruins of the worn-out Roman or Lombard round 
+arch. 
+
+The unyielding form of the latter, either in its adaptation 
+to the now elevated vault, with its ponderous ribs, or to the 
+elongated window, with its massive voussoir, fell into disuse, 
+and was soon cast aside for the more delicate and aspiring 
+contour of the former (or pointed) with its web-like rib 
+mouldings and neatly managed intersections. What glories 
+in art were ushered into existence by the presence of this 
+single precious germ! 
+
+Germany, France and England, the lands of its adoption, 
+all afforded congenial soil for the reproduction of its seed. 
+All alike claim it as indigenous to themselves, as having priority
+of existence in their own precincts, and each boasts of 
+its superior monuments of cathedrals, abbeys and churches 
+--page 14
+that now live to show us the diversified and far-spread fruit 
+of a single {_principle_}. 
+
+Difference of origin, mode of life, tastes and climates naturally
+had a marked effect upon the advancing growth of their 
+fostered, pointed architecture, and therefore to these causes 
+should we trace the dissimilarity now existing in the Gothic 
+Architecture of these three countries.
+
+"I have already mentioned a German author," says Mr. 
+Hope, in his Historical Essay on Architecture, "the Chevalier 
+Wiebeking of Munich, who, in support of the claims of his 
+countrymen to the introduction of this description of forms, 
+which he attributes to St. Bernward, Bishop of Hildesheim, 
+ascribes the foundation of many of the principal pointed 
+churches of Germany to eras so much earlier than any we 
+can quote elsewhere, that, supposing these to be genuine, the 
+priority, the invention, of the pointed style in Germany is 
+proved, and we have nothing further to say on that score." 
+
+In Germany, then, let us lay the foundation of all Gothic 
+art – look to her as the mother of it. Her claims to such 
+maternity surely have been ably and truthfully enough advocated.
+Then trace its migration to nursing France, in whose 
+lap it grew strong and healthy and whimsical, where it made 
+gigantic strides, aided by the mighty boldness aind native ingenuity
+of its Gallic foster-fathers. And follow its march, 
+until it reached England, whose most favorable clime, prepared
+for its final settlement, gave it that surprising impetus 
+in its progress to manhood and maturity which mark it, it 
+would seem, as almost native there. 
+
+Those peculiarities that were born in Germany and fructified
+--page 15
+in France, were gradually lost – and well they were – by 
+its associations in England. 
+
+The different manners and customs of the Britons, operating
+now with increased vivacity, infused another life into 
+it, and Gothic Architecture lived and does now live in its 
+mouldering ruins as the peculiar architecture of the English 
+people – as the characteristic work of their forefathers – as 
+the consequence of the religious zeal of its architects, the 
+product of centuries. What noble results! 
+
+As the peculiar habits and religious faith of the old English
+people, did mature a characteristic mode of building, a 
+national Ecclesiastical Architecture for their religious requirements,
+and many examples still exist as monuments of their 
+faith; so do I conclude and believe {_that the Church Architecture
+of England, can have no true existence under a system 
+foreign to her own_}. 
+
+Orientation
+
+In America a valuable result of our nascent endeavors and 
+of our opposition to Paganism in art is, that the importance 
+of Church Architecture has grown to be more acknowledged 
+and appreciated. Its extraordinary progress among us attests 
+the working of some great cause, that has aroused us from 
+our lethargy, and is disseminating the truths of this noble art 
+from day to day in the breasts of those who are humbly prepared
+to receive them. 
+
+But Church Architecture – what is it? 
+
+Is it the beautiful traceried window, or the pinnacled
+--page 16
+buttress, or the tall tower with its tapering spire that 
+makes it? 
+
+No – it is the reverent hand, the religious feeling, symbolical
+observances, which have created it, have built windows 
+in honor of God's light, pinnacles that carry the eye of man 
+unconsciously heavenward, and spires that are made 
+
+{" "– to raise the heart and lead the will. 
+By a bright ladder to the world above." "}
+
+We build to the honor of God. Our work has its foundation
+in holiness. And as we lay that which is to receive the 
+superstructure, it will yield results in harmony with our sentiments;
+if we build reverentially, we must also build symbolically;
+therefore we do but follow in the footsteps of those 
+who built so often in times long passed for the honor of 
+God. 
+	{^ " For other foundation can no man lay than that is laid, which is Jesus Christ. Now 
+	if any man build upon this foundation, gold, silver, precious stones, wood, hay, stubble; 
+	every man's work shall be made manifest: for the day shall declare it, because it 
+	shall be revealed by fire; and the fire shall try every man's work, of what sort it is." – 
+	{_1st Corinthians_}, iii. 12, 18. ^}
+
+As we look to them for our lessons in Church Architecture, 
+and they are our best teachers, we must not omit to study 
+and to build with the same feeling – the. same devout and 
+symbolical feeling – or we will never accomplish any good 
+result, and our churches will stand as but "labored quarries 
+above ground," meaningless and irreverential piles. 
+
+"A Gothic church, in its perfection, is an exposition of the 
+distinctive doctrines of Christianity, clothed upon with a material
+form; and is, as Coleridge has more forcibly expressed 
+it, 'the petrifaction of our religion;' or, as it has been expressed
+by a mind essentially differing from Coleridge's, which
+--page 17
+makes the coincidence the more remarkable. The divine order 
+and economy of the one seems to be emblematically set forth 
+by the just, plain, and majestic architecture of the other; and 
+as the one consists of a great variety of parts united in the 
+same regular design, according to the truest art and most 
+exact proportion, so the other contains a decent subordination 
+of members, various sacred institutions, sublime doctrines, and 
+solid precepts of morality, digested into the same design and 
+with an admirable concurrence tending to one view – the 
+happiness and exaltation of human nature." 
+	{^ Poole's Churches. ^}
+
+Orientation was strictly observed in the erection of the 
+Medieval Churches, with but few exceptions, and those are to 
+be traced to remoter causes than a want of symbolical understanding
+or rubrical obedience. The verge of a precipice, or 
+the undulating line of a river's margin, or some other natural 
+or local difficulty, was a plausible reason for a deviation; or 
+ignorance of the precise cardinal points may have caused the 
+slight inclination from the East observable in some counties. 
+And I have yet to find the antiquary that would attribute 
+these variations to an intended violation of rubric, or sentiment,
+or usage. 
+
+It is not so, I am pained to say, in the churches of the 
+present time, and we do violate this venerable observance, 
+which was one of the component principles in the development
+of the architecture we employ, with that same careless 
+temerity with which churchmen omit the chancel, or substitute
+a table for the altar, which often loses its distinctive 
+character, and from its unchurchlike position, has sometimes 
+been desecrated and turned into a convenient cloak and hat 
+stand. What irreverence! 
+
+--page 18
+
+Sameness of design, and the want of pictoresqueness – the 
+very life of all Gothic work – characterize most modern structures.
+The everlasting corner steeple, repeated wherever the 
+eye chances to fall, multiplied in almost endless number for 
+either of the four corners made by crossing streets, may be 
+attributed, without injustice, to the authority of those who 
+build more for mere architectural display than with a spirit 
+of religious devotion. 
+
+This degeneracy, so often observable in the first movement 
+towards the erection of a church, should not be tolerated if 
+we profess to build religiously, nor should we proceed further 
+in the work, as that which is begun in irreverence cannot 
+expect to meet with respect either from the heathen or the 
+Christian. But 
+
+{" "Unto the East we turn, to which belong 
+More than the heart divines or eye descries." "} 
+
+Keeping in view then, the same symbolical reason and 
+also the same religious devotion with which the corner-stone 
+of the Sanctuary was laid Easternmost, the next step in our 
+progress will be to the development Westward of the 
+
+section{Plan}
+
+Our countrymen have already made progress in architecture.
+There is intelligence enough to comprehend its mysteries,
+and sufficient taste to embody them in our edifices. 
+The latent capacity needs only to be developed by instruction
+in its true principles, in order to restore the art to its 
+noble position. 
+
+It would be an error to urge the introduction of Gothic 
+Church Architecture upon any other basis, than that of its 
+--page 19
+symbolical meaning. True, little is as yet known of the symbolisms
+used every day in the very churches we build; yet it 
+does not follow that such symbolisms do not actually exist. 
+The practice of adapting the Middle Age buildings to the 
+present conventional forms of worship is prevalent among us: 
+and these buildings require but little if any alteration to 
+accomplish this object. Yet they contain in themselves 
+original symbolic forms and devices. The edifices and the 
+symbols are inseparable. The minutest, and so on to the 
+grandest parts of their architecture, to those who have within 
+them a religious feeling, are fitting emblems of the religion 
+that created them. And if their architecture is appropriated 
+to the use of modern worshippers, so do they unconsciously 
+introduce its mysteries when they build their churches. 
+
+"Gothic Architecture has always the charm of mystery; it 
+does not exhibit itself naked and bare, like a Greek temple 
+perched on a rock; but it appeals to the imagination, veiling 
+itself with walls, and screens and towers; it delights in bold, 
+striking, and picturesque irregularities, and always appears 
+larger than its actual dimensions: the mouldings, the pillars, 
+the arches, always create receding shadows, and to the eye, 
+the idea of space arises from the succession of ideas."
+	{^ Bardwell's "Temples." ^} 
+
+Though the unique little church of Shottesbroke, (England) 
+should be made the model for a new church in its vicinity or 
+elsewhere, its cruciform plan and trinal arrangement, adopted 
+by the pious founders, as typical of Christ crucified and the 
+Holy Trinity, would still remain symbolical, though a building
+committee may have adopted the model without a spirit 
+--page 20
+of reverence, or in utter disregard of all its typical signification. 
+
+That church-building in this spirit is practised to a great 
+extent, is not a matter of doubt, and the corollary is then 
+that we do sometimes symbolize the Godhead, and sometimes 
+the Crucifixion in the erection of our houses of worship, 
+without knowing what we have done! 
+
+These common, every-day transactions are gross, though 
+unwitting plagiarisms. Churches should be erected in honor 
+of God, and the agents of the work be inspired with a sentiment
+of truth. 
+
+We might be guilty of a like larceny, in our ignorance, by 
+appropriating the labors of Milton in the Paradise Lost, without
+ever having read more than his chapters of arguments, 
+but simply for the reason that its {_plan_} came nearest to our 
+own ideal of the groundwork of such an allegory. 
+
+It does not necessarily follow, because the cruciform plan, 
+from various circumstances, cannot always be adopted, that 
+none others are as symbolical. Gothic art was created upon 
+"Theological, Ecclesiastical and Mystical" principles; and 
+whatsoever plan be adopted, whether it is that which embodies
+the nave, chancel and sanctuary, or all of these with 
+the addition of aisles, or this combination with the addition 
+of transepts; the ever-present symbol of the Holy Trinity 
+will be found in them all; that is "the nave, being the 
+commencement of the church, would in the language of the 
+designer be read the Father, and being the first part, is of 
+none. The chancel or cross (and which is as it were made 
+to arise out of the nave) is of the nave alone, [as the Son 
+from the Father:] and the holy of holies is of the nave and 
+--page 21
+of the chancel, proceeding from them." [as the Spirit from 
+the Father and Son.] 
+
+When contemplating the building of a church, if at liberty 
+to choose from either of the plans above named, there are 
+many reasons why the cruciform should be uppermost in 
+the mind. 
+
+{_First;_} "According to human reason, the cross form should 
+be the foundation for a house of prayer, because the religion 
+of Christ crucified is to be preached within its walls; and in 
+conformity with this principle, a vast number of our churches 
+have been so constructed, and wisely so too, for the essence 
+of a subject should be its foundation and Christ crucified is 
+the essence of our religion." 
+
+{_Second;_} the nave of a parish church should not exceed 
+thirty feet in width, nor three squares of its width, or ninety 
+feet, in length. I do not now of course refer to those in 
+modern times which are cathedral imitations. 
+
+Then it is readily seen that when a greater number of 
+parishioners are to be seated, not to overreach or mar what 
+has been made pleasing and in good proportion and the most 
+economical, more room must be had, and hence the addition 
+of aisle or aisles,
+	{^ Though the need of more space for worshippera has been considered the origin of both 
+	aisles and transepts in parish churches yet, there is other authority for accounting the 
+	ancient basilica to lie the type of the Gothic cathedral. ^}
+and the attendant beautiful nave piers and 
+their lofty arches; and hence, also, if the nave be of a sufficient
+width, the pierced clear-story becomes a necessary 
+and effective adjunct. Next, then, another alteration, for as 
+good a reason, should be determined upon, and with as little 
+loss as at first; that is, transepts may be added, with or without
+--page 22
+aisles, to accommodate the now increased number of 
+parishioners. 
+
+It will be seen that all of these alterations and additions 
+have served to bring the constantly growing number of worshippers
+near to the pulpit and the chancel, which would not 
+have been the case had additional accommodations for them 
+been obtained by a greater length of the nave. 
+
+For the sake of economy and beauty, thirty feet in the 
+width of a nave should not be exceeded, and ninety feet in 
+length should not be exceeded, for the reasons that it would 
+place the sittings too far from the chancel and mar the good 
+proportion of the interior. Therefore, following the scheme 
+of additions as above, the cruciform plan is preferable for a 
+large congregation, to say nothing of its clear typical meaning 
+and architectural beauty. See "Design 4, Plate 2." 
+
+When it is consistent with the means at command, in a 
+small church, the cruciform should take precedence of all 
+other designs, for the reasons already specified in favor of it 
+where a larger church is to be erected. See "Design 5, 
+Plate 2." 
+
+The rood-tower is an important and peculiar feature in the 
+plan and perspective of a cruciform design, and seems to have 
+grown out of it, as a necessary appendage, though there are 
+many old churches that have the rood-tower without the 
+transverse arms of the cross. 
+
+The plan including nave, transept and rood-tower was the 
+most prevalent with the earliest Gothic architects, though 
+there are instances in the same period in which the transepts 
+and towers are subsequent erections, or additions to the 
+original edifice. 
+
+--page 23
+
+Agreeably to this plan a greater elevation of steeple can 
+be obtained with less difficulty and less expense, and certainly 
+with as much claim to architectural beauty as in any other, 
+since the exterior base of the tower, or its intersection with 
+the roofs, is, at its commencement, already elevated above the 
+surrounding building, and, with attention to good proportion –
+although confined to the width of the nave, as should 
+always be the case – it will admit, as seen in perspective, a 
+great elevation; but it demands a corresponding lightness. 
+
+In Design 4 (Decorated) the clear-stories to the transepts 
+have been omitted, as not being, in this design, actually 
+essential to its architecture or usefulness. And this omission 
+allows the first section of the tower to be appropriated as a 
+lantern and ventilator to the central portion of the church. 
+At the same time the second section serves as a belfry, as 
+usual. 
+
+In order to reduce in thickness, as much as possible, the 
+main piers of support to the tower, it became necessary to 
+omit the usual stone stair-case winding up in one of the piers 
+to the belfry. The latter being used only as a belfry, and a 
+visit to it being seldom required, it will need but little ingenuity
+to reach it in case of necessity.
+
+The adoption of a rood-tower with its spire has been often 
+objected to, even where it has been feasible and greatly to 
+be desired; for its piers and arches, which are generally required
+to be made massive and heavy, obstruct the sight and 
+produce too great a reverberation of sound. These would 
+be serious difficulties, in attempting to imitate the design of 
+an ancient church, because of the custom prevalent of old of 
+constructing the tower of smaller dimensions than the nave,
+--page 24
+and thereby bringing the piers necessary to the support of 
+the tower several feet within the body of the church, at the 
+same time diminishing the arch or opening between the 
+piers. 
+
+In "Design 5, Plate 2," the tower is of the same width as 
+the nave, and its walls receive support vertically upon segmental
+arches, thrown across the nave, chancel and transepts; 
+these again receive a lateral resistance in their respective 
+walls, which stand as buttresses and a£ford us the strongest 
+possible construction. In this manner, it will be observed, 
+all impediments to the sight are removed, without the necessity
+of spoiling tower piers by curtailment or mutilation. 
+
+In "Design 4, Plate 2," the piers are made comparatively 
+small, and receive, for this diminution of support to the tower 
+above, additional and greater strength in the adjoining arches 
+of the aisles, carrying the lateral pressure also to the external 
+walls, as in the "Design 5, Plate 2," described in the preceding
+paragraph. In this manner, slender and graceful 
+piers, (in all cases built upon strong and proper foundations) 
+may be made to answer the purpose of support equally as 
+well, as massive and cumbrous piers without this additional 
+lateral resistance. 
+
+section{Material}
+
+It would be a difficult matter here, within the limits to 
+which this work is necessarily restricted, to particularize the 
+various kinds and qualities of building materials that are 
+necessary to the erection of a church, and to treat upon their 
+relative merits. 
+
+Wood, brick and stone all have good properties, though it 
+is always advisable, in districts where stone can be procured,
+--page 25
+to employ it in preference to any other material. Its durability,
+which depends much on its species, is not of less importance
+than its superiority over all other materials in picturesque
+appearance and architectural beauty. 
+
+If the vicinity in which it is proposed to erect the church 
+produces lime stone – its component parts being carbonate of 
+lime, or the carbonates of lime and magnesia, nearly pure, and 
+sometimes mixed with extraneous matter in various degrees – 
+care should be taken to select that which is the most crystalline
+in its composition, as it is the most durable, and least to 
+be affected by atmospheric changes. 
+
+Or, if sand stone abound – its component parts being quartz 
+or silicious grains cemented by silicious, argillaceous, calcareous
+or other matter – its durability will depend upon the 
+nature of the cementing substances, as its grains themselves 
+are almost imperishable. 
+
+Laminæ are peculiar to sand stone, and, in its natural bed, 
+their position is horizontal. If such stone be used with its 
+laminæ placed in a perpendicular position when built in the 
+wall, it will decompose in flakes, according to the depth of 
+the laminæ; but if placed in the wall, in its natural or horizontal
+position, the decomposition will be comparatively 
+small. 
+
+Variety of color and irregularity of strata, in all stones, are 
+to be preferred, and should not be put aside for what some 
+consider "handsome" – for smoothness, sameness in tint and 
+want of a show of texture. 
+
+In selecting stone for building purposes, greater attention 
+should be given to its durability, and not so much to other 
+considerations that are ever uppermost in a parsimonious 
+--page 26
+mind. I think it will not be amiss to apply an English 
+writer's remarks to our own country, seeing the daily and 
+increasing carelessness shown in regard to the matters and 
+usages here briefly treated. 
+
+He says, "In modern Europe, and particularly in Great 
+Britain, there is scarcely a public building, of recent date, 
+which will be in existence a thousand years hence. Many of 
+the most splendid works of modern architecture are hastening 
+to decay in what may be justly called the infancy of their 
+existence, if compared with the date of public buildings that 
+remain in Italy, in Greece, in Egypt and the East." 
+
+As to the manner of working and laying the stone in the 
+wall, I cannot do better, in expressing my own ideas upon 
+this equally important subject, than to extract the following 
+paragraphs of a foot note from the description of Trumpington
+Church in the "Churches of Cambridgeshire." 
+
+"No one can have failed to observe how seldom the ancient 
+Gothic architects used either large stones or fine joints in 
+their masonry. To find this peculiarity at a time when no 
+cost was spared, and when the extreme delicacy of workman- 
+ship in minor details was unsurpassed by that of any other 
+age, is to convince us that it was not destitute of a sound 
+practical reason. Modern builders boast of their superior 
+skill and greater neatness of workmanship in these two 
+respects. Compare for example the new buildings of King's, 
+S. John's and Downing Colleges, with any ancient building, 
+collegiate or ecclesiastical, and we shall see the most striking 
+difference in the respective styles of masonry. The modern 
+buildings are constructed of very large squared stones, with 
+joints of almost imperceptible fineness; the ancient, of hammer
+--page 27
+dressed ashlar with mortar a quarter of an inch thick between
+every joint. Downing College has now scarcely five 
+square yards of masonry entire; everywhere the huge stones 
+are rent and disjointed by the settlement of the foundations. 
+In the new buildings of St. John's, by far the greater part of 
+the monolith window-sills are split in two, and in several 
+places the stones have started or been shattered from the 
+same cause. "
+
+"The ancient masonry seems to have been designed to 
+take into account those trifling settlements which are almost 
+unavoidable, and which for the most part take place shortly 
+after the erection of a building, often before the mortar has 
+become hard. 
+
+It is remarkable that the Tower of Trumpington has suf- 
+fered much internally by the disruption of the {_fine-jointed_}
+stones from settlements. The attention of architects should 
+be directed to this subject; because if we mistake not, the 
+ancient had three important advantages over the modern 
+masonry, viz. (1) a much better appearance; (2) greater cohesiveness;
+(3) it cost one third less. We are aware that 
+some {_late_} Gothic buildings, as King's College chapel, violated 
+(and with impunity) the more ancient principle; and on the 
+other hand, that many edifices built on the old system have 
+sufiered from settlements. We speak of course, only of 
+general practice." 
+
+section{Entrance}
+
+In what has thus far been written, there may be objections 
+raised by the reader to the introduction of matter, that in 
+juxtaposition with the conventionalities of the present time 
+--page 28
+may be thought too controversial for an instructive work, as 
+this purports to be. All I can o£fer in extenuation is that it 
+was the intention, from the commencement, to find fault with 
+and condemn all those things in the architecture
+	{^ "ARCHITECTURE is the art which so disposes and adorns the edifices raised by man 
+	for whatsoever uses, that the sight of them contribute to his mental health, power, and 
+	pleasure. 
+
+	It is very necessary, in the outset of all inquiry, to distinguish carefully between 
+	Architecture and Building. 
+
+	To build, literally to confirm, is by common understanding to put together and adjust 
+	the seyeral pieces of any edifice or receptacle of a considerable size. Thus we have 
+	church building, house building, ship building, and coach building. That one edifice 
+	stands, another floats, and another is suspended on iron springs, makes no differenoe in 
+	the nature of the art, if so it may be called, of building or edification. The persons 
+	who profess that art, are severally builders, ecclesiastical, naval, or of whatever other 
+	name their work may justify; but building does not become architecture merely by the 
+	stability of what it erects; and it is no more architecture which raises a church, or which 
+	fits it to receive and contain with comfort a required number of persons occupied in certain
+	religious offices, than it is architecture which makes a carriage commodious, or a 
+	ship swift. I do not, of course, mean that the word is not often, or even may not be 
+	legitimately, applied in such a sense (as we speak of naval architecture); but in that 
+	sense architecture ceases to be one of the fine arts, and it is therefore better not to run 
+	the risk, by loose nomenclature, of the confusion which would arise, and has often arisen, 
+	from extending principles which belong altogether to building, into the sphere of architecture
+	proper. 
+
+	Let us therefore at once confine the name to that art which, taking up and admitting 
+	as conditions of its working, the necessities and common uses of the building, impresses 
+	on its form certain characters venerable or beautiful, but otherwise unnecessary. Thus I 
+	suppose, no one would call the laws architectural which determine the height of a breastwork
+	or the position of a bastion. But if to the stone facing of that bastion be added an 
+	unnecessary feature, as a cable moulding, {_that_} is architecture. It would be similarly unreasonable
+	to call battlements or machicolations architectural features, so long as they 
+	consist only of an advanced gallery supported on projecting masses, with open intervals 
+	beneath for offence. 
+
+	But if these projecting masses be carved beneath into rounded courses, which are useless, 
+	and if the headings of the intervals be arched and trefoiled, which is useless, {_that_} is architecture.
+	It may not be always easy to draw the line so sharply and simply; because there 
+	are few buildings which have not some pretence or color of being architectural; neither 
+	can there be any architecture which is not based on building, nor any good architecture 
+	which is not based on good building; but it is perfectly easy and very necessary, to keep 
+	the ideas distinct, and to understand fully that Architecture concerns itself only with those 
+	characters of an edifice which are above and beyond its common use. I say common; 
+	because a building raised to the honor of God, or in memory of men, has surely a use to 
+	which its architectural adornment fits it; but not a use which limits, by any inevitable 
+	necessities, its plan or details." – RUSKIN.
+and building
+of our parish churches that were most glaringly defective, 
+and afterwards to endeavor to make the corrections most in 
+--page 29
+accordance with a true taste and right mode of building, and 
+in this manner to bring about a truer perception of things 
+architectural both among wardens and vestrymen and those 
+commissioned by them to undertake any new and important 
+work. 
+
+It would have been an endless and perhaps an ungrateful 
+task, to undertake a revision or criticism of all the errors 
+that have crept into common practice, the toleration of which 
+is an indignity to a cause so holy as that of church building. 
+And that there might be a proper limit to this "Introduction,"
+with the deficiencies supplied, as far as practicable, in 
+the accompanying designs, the author confines his animadversions
+to those particulars in which common sense will be ready 
+always to sustain him. 
+
+It is only by noting these errors, and holding a correct 
+system before the public eye, that great and long-continued 
+abuser can be conquered, and reformations in art effected. 
+As the schoolboy becomes versed in his elementary studies, 
+so will he be better able to proceed to more profound and 
+difficult themes; and I await patiently the time when our 
+countrymen, like the schoolboy, shall be better fitted to 
+prosecute the higher studies of art, and appreciate its development. 
+
+{" "Ye who build the churches of the Lord, {/} 
+See that ye make the western portals low;  {/}
+Let no one enter who disdains to bow." "}
+
+One of the most serious faults, both in the exterior and 
+interior composition of a design – not to speak of other faults 
+that must necessarily follow – is that of introducing doorways 
+for ornament or relief (as the architect, in designing an Italian 
+villa, would make a blank, to preserve the uniformity or equilibrium
+of a composition in this style,) and running up the 
+--page 30
+doorway beyond the height required for good proportion or 
+actual necessity, to the detriment, or sometimes total exclusion
+of the more useful window, whose place in the design it 
+usurps. 
+
+It is an ugly fashion, and without any just excuse, to make 
+a door fifteen feet in height, when a rose window, immediately 
+above it, must be reduced to but five feet in diameter that it 
+may not be crushed in the angle of the gable, a practice 
+which seems strange too, just at the time when the "dim religious
+light" of our Gothic interiors is so much disparaged. 
+
+Mr. Wightwick,
+	{^ Weale's Quarterly Papers on Architecture. ^}
+in his animadversions upon this defect in 
+continental buildings, says, "Why is it a virtue in the doorways
+of the foreign cathedrals to be gigantic, while the 
+gigantic of English windows is a fault? Why is the humble 
+worshipper, 'small and of no reputation,' to be admitted 
+through a vast door; while the universal light of great heaven 
+may not shine through a vast window, – unless it be a circular
+one?
+
+"It is one of the peculiar beauties of the English cathedral 
+fronts that the great windows symbolize the pervading expansion
+of the light of Truth, while the small doors typify the 
+humility of truth's seeker. 
+
+"The great window is to the honor of God; the little door 
+for the use of {_man_}." 
+
+The common expression, when adverting to the merits of 
+such or such a church, that "it mimics a cathedral," is first 
+forced from us as we observe the multiplicity of doorways 
+that, in the small church, have sensibly lost their occupation; 
+but which in the cathedral or larger church are required for 
+--page 31
+the ingress and egress of the maltitudinoas assemblage. This 
+inconsisteDcy has, in the following designs, been kept in view, 
+and the number of doors is made to conform as nearly as possible
+to the number of sittings in the church. 
+
+All doorways that are in common use should have porches 
+with exterior doors to protect the worshipper, from the inclemencies
+of the weather, and those of the interior should 
+be hung on pivots, that they may not disturb him in his devotions.
+In this manner, will be avoided anomalies in the shape 
+of the port-cochère, minus the roadway, with its slender piers 
+and delicate arches – beauties not wanted here – and then, 
+also, we may dispense with the green baize doors and their 
+glazed bull's-eye apertures, fixtures so common to the porterhouse
+and so inappropriate to the church, which yet, as is 
+generally the case with things most objectionable, are in 
+requisition the greater part of the year. 
+
+The sacristy may serve, from necessity, the use of a porch 
+to the chancel, in a small church; but in a large one – and, 
+indeed, in a small one also if possible – it seems advisable to 
+make this porch with a parvise over it, and appropriate the 
+latter to the ancient purpose of a sacristy; it may be approached
+by a stone newel staircase in the wall; see "Design 
+6, Plate 2." 
+
+section{Chancel}
+
+In the brief historical notice of Gothic architecture that 
+heads this chapter, I have said that "{_the Church architecture 
+of England, can have no true existence under a system foreign 
+to her own_}." That English Gothic architecture was originated 
+and supported by the religious belief coeval with it, may be 
+readily proved by tracing (as I have attempted very simply 
+--page 32
+and summarily to do in that notice) the history of its pedigree
+from its birth to the downfall of art. 
+
+Is this the belief of churchmen, vestries and architects of 
+the established church of England, who build churches "to 
+the honor and glory of God?" 
+
+Do not the canons of the primitive church now exist? And 
+have not the usages founded on them a place in the hearts of 
+those who look to the past for their great exemplars of piety 
+and religious devotion? And how is it reconcilable, then, to 
+preserve the one with reverence, and mar the religious as 
+well as the architectural beauties of the other? 
+
+That churchmen do not believe, when they search the 
+depths of their hearts, that "{_the Church architecture of England,
+can have no true existence under a system foreign to her 
+own_}," it would be illiberal to dispute, though their practice 
+falls far short of their belief. 
+
+There are churches built without chancels, but with spaces 
+inclosed in the nave by railing, and called chancels. In these 
+it requires a liberal imagination to discern the symbolism 
+which separates the church {_triumphant_} and the church 
+{_militant_}. 
+
+Some substitutes for chancels are apsidal spaces with the 
+segment of a circle for their contour, and others there are 
+that can, with architectural propriety, and it is to be hoped 
+without irreverence, be compared only to huge sentry boxes 
+flattened against the nave wall from without. Such abortions
+become better the edifices of any other society than 
+those of the Church of England, and her daughter in this 
+country. 
+
+In theory, the Chancel rises out of the {_naos_} or nave, and 
+the Sanctuary proceeds from the nave and chancel, and they 
+--page 33
+cannot remain one within the other, if their typical meaning 
+be preserved, but must be distinct in form, and be as perfect 
+as the hand of man can make them, that they may be the 
+more significant in character and worthy of divine acceptance. 
+"What indeed is there – to drop for a time all considerations 
+of ecclesiastical propriety and imbrical obedience, and to view 
+the matter as a simple question of taste – what is there that 
+the resources of the most ingenious architect can devise, 
+which will compensate, in either internal or external appear- 
+ance, for deficiency of length in a Chancel? We are bold to 
+answer unhesitatingly, there is nothing; a stinted Chancel 
+must ruin a Church." 
+	{^ Architectural description of S. Andrew's Church, Histon. "Churches of Cambridgeshire." ^}
+
+In many of the early churches the chancel and nave were 
+covered by roofs in the same plane, and sometimes without 
+having the great distinguishing feature, the chancel arch. 
+In these instances, however, the elevation of the chancel floor 
+above the nave, as well as the beautiful chancel screen, made 
+"to check the irreverent approach to the solemn mysteries 
+which are celebrated at the Christian altar," designates its 
+position and its holy uses at once. 
+
+The screen, or {_cancelli_}, from which the name chancel is 
+derived, may be of wood or stone, and will not only admit 
+of great beauty of design and diversity of ornament, but was 
+often, in old churches, covered with brilliant coloring and 
+gilding. 
+
+The chancel arch, from its conspicuous position, should be 
+turned to the best account, and, with ornaments and symbols, 
+may ever suggest to the mind of the beholder some fundamental
+doctrine of the Church. Texts from Scripture, and 
+--page 34
+devices, in old churches, are found inscribed and carved in 
+every possible place. But I am now speaking of the chancel 
+arch, and of their application to this particular part of the 
+church. 
+
+In the chancel arch of the beautiful little restored church 
+of St. Mary's, Wymeswold, England, "The capitals and dripstone
+ends are emblematical. On the south side is a blinded 
+figure with her crown falling, representing the synagogue – 
+the capital being a cluster of dry vine branches. On the 
+north is an erect crowned figure, representing the Church – 
+the capital, a cluster of vine branches bearing fruit." 
+
+The parclose differs from the screen, inasmuch as the former 
+is more particularly employed for the separation or protection 
+of a chapel or other portion of the church from the nave or 
+chancel; and, in "Design 4, Plate 2," both the Sacristy and 
+organ chapel are separated from the nave and chancel in this 
+manner; in most of the remaining designs, the organ chapel 
+has a parclose both in the chancel and in the nave. 
+
+As the designs show more particularly the arrangements 
+and proportions of the chancel, it would be needless here to 
+specify them, and I would advise, in lieu thereof, a minute 
+examination of the designs. 
+
+To those accustomed to look upon the chancel, with its 
+numerous north and south windows, and the flood of light 
+they transmit, an apology or rather reasons may be expected 
+for studiously omitting all notice of these north and south 
+windows in the designs. 
+
+First, we would dispense with these windows because, the 
+great {_east_} window can always be made to answer the required 
+purpose – admission of suflScient light. 
+
+Second, cross lights are objectionable in the interior of this 
+--page 35
+portion of the charch: the chancel is as it were a picture, 
+with its background, and must receive the proper touches of 
+light and shade, as painters 
+
+{" "Permit no two conspicuous lights to shine {/} 
+With rival radiance in the same design." "}
+
+Third, where the walls are less pierced, as surveyed from 
+without, the mysteries of the chancel seem more profoundly 
+veiled and reserved; and the loss of exterior relief is of less 
+moment than the fine effect produced in the interior by the 
+admission of light from but a single directioq. 
+
+section{Gallery}
+
+The personal sacrifices made by the churchmen of bygone 
+times, now almost entirely forgotten, and the religious reverence
+with which all things pertaining to the house of God, 
+and requisite in their mode of worship, were held by them, 
+remain in bright and immortal contrast with the dark transactions
+of their persecutors, in the demolition of so many 
+churches which stood as noble monuments of our forefathers' 
+self-denial, faith and zeal. 
+
+Love of luxury seems to have waited upon the new order 
+of things, and profanity strove to rid itself of every obstacle 
+to indulgence and every inconvenience that obstructed its 
+repose. Sacrifices had been made, with sincere and holy 
+motives, for the erection of churches to the honor of God. 
+Now a love of worldly things returned. Divine charity, 
+yielded to a prevalent and hateful selfishness, which it had 
+been long used to repress. Magnificent monumental piles, 
+reared for the worship of God, and as fit emblems of a devotional
+sacrifice which inspired beholders with reverence for 
+--page 36
+Him and sympathy with human self-denial were now turned 
+to base uses of the earth. The tread of daring sacrilege 
+defiled God's sanctuary. An impious covetousness diverted 
+and appropriated his treasures. An insane jealousy defaced 
+works of art hallowed by ages. Church after church was 
+desecrated in the march of fanaticism. And only the ruins 
+of many a goodly edifice remain to attest the riots of profanity
+and the barbarism of ignorance. 
+
+To speak at present of but one of the many perversions: 
+the beautiful western tower arch that, curved in grace and 
+airy lightness, performed its office of support, was rudely filled 
+up with a huge, hideous singing gallery; and this wretched, 
+anomalous invention has been bequeathed to us, with other 
+displacements and deformities, as one of the specimens of the 
+ill taste prevalent during the Puritan reformation, when religious
+violence had reached a lamentable ascendency. 
+
+Happy is it that this deformity is receiving the attention it 
+justly merits; and I hope, ere another century rolls around, 
+that it may disappear and be forgotten; not solely on account 
+of its unarchitectural character, introducing discord among 
+all graceful lines with which it comes in contact, but that we 
+may get rid of its ugly appendages, curtains, brass rods and 
+rattling rings, furnishing a screen behind which, as is too 
+familiarly known, levity finds place for its profaning practices. 
+
+There are also other as grave reasons calling for its removal.
+The choristers, to conform to the designs of a Liturgy, 
+should be in or near to the chancel, convenient to the congregation
+who are to unite in the songs of praise, and whom the 
+choristers are intended to assist, and not to be placed behind 
+or over them, often really acting as a separate body of worshippers, 
+--page 37
+and seemingly usurping the exclusive right to chant the 
+Church's psalmody. The removal of this illegitimate gallery 
+will tend, also, to the restoration of those parts of the church 
+which are completely obliterated by its presence. 
+
+A novelty and excrescence, it introduced others as exceptionable
+with it, and the tower vestibule was necessarily 
+formed by the cutting in two as it were of that most elegant 
+appendage to the nave of a church, the lofty tower arch, with 
+its deep, effective, shadowy recess. 
+
+The magnificent window that filled the west end of the 
+church with a 
+
+{" "bright radiance and collateral light," "}
+
+and 
+
+{" "Casements through which the sonset streams like sunrise" "} 
+
+were therefore foiled in their purpose, robbed of their utility, 
+and hidden away from sight by the massive organ, only the 
+back of which, and the narrow spaces around it, could be 
+gilded by the sun's variegated rays. 
+
+To such foreign uses, after the Reformation, which is always 
+associated with the decadence of art, were many noble and 
+useful members of edifices applied. Windows were blocked 
+up, apparently that they might keep in darkness those who 
+worshipped under them. 
+
+Countless marks of worldliness and destructive violence 
+disfigured the places where the cross had been sacredly installed,
+teaching a lesson of devotion and self-sacrifice to men 
+that shall be judged by their works. 
+
+A propitious time has arrived, when we should repudiate 
+the errors of the ancestry that has entailed upon us such abortions,
+and shake ourselves from the subserviency that has so 
+long bound us to those errors, lest they be perpetuated and 
+--page 38
+in turn transmitted to oar descendants, making us {_participes 
+criminis_} with their ungodly originators. 
+
+The total exclusion of the gallery, and the setting apart of 
+an "organ chapel" on the floor of the church, are peculiarities
+of all of the designs in this volume. And the restoration 
+to their proper uses of the west window and the tower arch 
+with its slender pier shafts and graceful archivolt moldings, 
+forms one of the principal features in "Design 6, Plate 5," and 
+should be considered as important to the good effect of an 
+interior at the west end as the proper depth of the chancel at 
+the east is; a lengthened nave, enhancing the vista, contributes
+vastly to the beauty of the interior perspective in a 
+church, an effect which can only be obtained by removing 
+the obstructing gallery from its usurped place. 
+
+section{Pew}
+
+The earlier orthography of this word is {_pue_}, and it signified 
+any open seat. In ancient churches, the worshippers occupied
+simply low wooden seats with wainscoting between them, 
+sometimes reaching to the ground, and at others only as far 
+down as the seat, with the ends partially inclosed and appropriately
+paneled, or simply with chamfered angles, and, 
+though often with plain horizontal cap moldings, sometimes 
+enriched with elaborate finials, that "formed an avenue along 
+which the eye was irresistibly directed towards the altar." 
+
+The inclosed pew of three centuries ago, still corresponding
+somewhat with the modern pew, is supposed to have 
+originated with the Puritans, and, with the gallery, which 
+was sometimes a pew as well, was a production, like many 
+--page 39
+others of the same nature, necessary to satisfy the animal man 
+of the times and conduce in form and adornment as much as 
+possible to his convenience and pleasure, during his {_religious 
+devotiona_}. 
+
+Pews of their time were made lofly and spacious, and curtained,
+that the occupants might avoid the "order to bow at 
+the name of JESUS, and the rule to stand at the Gloria Patri." 
+
+Special entrances to those occupied by the lord of the 
+manor, or other high functionaries, are not uncommonly 
+found, in old churches, pierced recklessly through gorgeous 
+traceried and painted windows or other elaborate work, and 
+their interiors were bedecked with gaily colored Brussels 
+carpets and furnished with arm-chairs, hat-stands and fire-places. 
+
+With all the utilitarianism and parsimony that attend too 
+often the erection of many of our parish churches at this late 
+day, there are to be found among us as great inconsistencies 
+and expensive absurdities as those which marked a less enlightened
+age, and these will, in future times, be held up to 
+the same derision as the hat-stand and fire-place of the Puritans
+are at the present day. 
+
+High-backed {_pues_}, with their occupants in them, remind us 
+of those Roman martyrs in the year one thousand eight hundred
+and forty-nine, found buried to their necks in the ground; 
+and their doors, alike expensive and unnecessary, unless to 
+proclaim the selfishness of the occupant, are things not now 
+to be encouraged in the erection of a new church, where any 
+spirit of correct taste or appreciation of the true character of 
+God's house is to be found. 
+
+In "Design 2, Plate 8, Fig. 6," and "Design 4, Plate 7, 
+Fig. 10," are drawn the proper forms for seat-ends, suitable 
+--page 40
+to the several designs; they may be plain or ornamented with 
+paneling or other work in concord with the respective styles 
+of the churches in which they may be used. 
+
+section{Altar}
+
+For a brief account of the origin of the stone altar, the following
+extract, taken from "Poole's Churches," will not prove 
+uninteresting. 
+
+"The circumstances out of which the use of stone altars 
+arose were these: – In the earliest ages of the Church, Christians
+were obliged to retire to the catacombs to solemnize the 
+rites of the faith. In these were buried many of the martyrs; 
+and their tombs presented themselves as the most commodious,
+and, what was infinitely more valued, the most sacred 
+spots on which to consecrate the Eucharist. 
+
+"The affections of the Christian people clung to these solemn
+assemblies and sacred altars; and after they might choose 
+the place and manner of their service, they erected altars as 
+much as might be, resembling those at which they had worshipped
+in the days of their persecution. They chose, therefore,
+very often, the spot on which some martyr had received 
+his crown; and his tomb being erected on the place, furnished 
+the altar of a Christian church." 
+
+The communion table, after the Reformation, generally occupied
+the same position as that of the ancient altar, against 
+the east wall; but it caused great dissatisfaction among the 
+Puritans, who, when in power, either drew it out into the 
+nave, or changed its position to the centre of the chancel, 
+and placed seats around it for the communicants. At a subsequent
+period, it was restored to its ancient place; though 
+--page 41
+in some instances, the former position in the middle of the 
+chancel is still preserved. 
+
+The easternmost part of the chancel receives its appellation 
+of "The Sanctuary" from its containing the high altar, at 
+which the ceremonies of the Holy Eucharist are performed. 
+It should be elevated not less than one step above the chancel 
+floor, nor more than three; and the material used in its floor 
+should differ from that of the chancel, and be more costly, 
+to mark it as "the holy of holies," and as superior to all 
+other parts of the church in its material as it is in its spiritual 
+character. 
+
+{" "Enter : its grandeur overwhelms thee not; {/}
+And why? it is not lessen'd ; but thy mind, {/}
+Expanded by the genius of the spot. {/}
+Has grown colossal, and can only find {/}
+A fit abode wherein appear enshrined {/}
+Thy hopes of immortality; and thou {/}
+Shalt one day, if found worthy, so defined, {/}
+See thy God face to face, as thou dost now {/}
+His Holy of Holies, nor be blasted by his brow." "}
+
+There seems more fitness in an altar of stone, if we view it 
+with an eye to symbolism, which should always be present 
+in our minds in whatever we build to the honor and glory 
+of God, that it may the more readily speak its uses and 
+purposes. 
+
+"It ought to be of stone, not because of the hardness, but 
+the solidity of faith. Just as the Lord said unto Peter, 'Thou 
+art Peter, and upon this rock' – that is, upon this firmness of 
+faith — 'I will build my church.'" 
+
+In chancels whose dimensions will admit of it, the altar 
+appears more properly and to a better advantage if removed 
+a few feet from the easternmost wall, though, in most of the 
+designs here presented, it would not be expedient. In these 
+--page 42
+designs, the altar is placed, agreeably to the present practice, 
+against the wall. 
+
+There will be always, if the chancel is of a proper proportion,
+sufficient space on either side of the altar, against the 
+east wall, for the creed and commandments; but in no 
+instance, should a reredos, if determined upon to receive 
+these inscriptions, be suffered to be elevated above the sill 
+of the great east window; the reasons are too obvious to 
+need specification. 
+
+section{Sedilia}
+
+The stone seats found in ancient churches, near to the 
+altar, and generally in the wall, on the south side of the chan- 
+cel, have been the cause of much discussion as to their origi- 
+nal use. They varied in number, from one to four, and were 
+separately niched in the wall and elaborately ornamented 
+with tabernacle work, buttresses and other designs. Some- 
+times the seat, sufficient to accommodate two or three priests, 
+was spanned by one arch or canopy, which was, as well as 
+others of a different form, quite plain and devoid of orna- 
+ment. 
+
+The subject of their use was long contested by archaeolo- 
+gists, who now seem to have arrived at the truth that they 
+were used as seats for the officiating priests. 
+
+In many parish churches of the present day, the stalls with 
+very elaborate canopies peculiar to the cathedral choir, are 
+used as a substitute for sedilia, giving to the interior of the 
+chancel a cabinet-furniture-wareroom appearance, cumbering 
+it to a very objectionable extent and diminishing its pro- 
+portions. 
+
+
+
+PISCINA. — FONT. 43 
+
+
+
+Limited in their dimensions at the outset, few chancels can 
+bear this additional contraction. 
+
+The sedilia as above described, corresponding in simplicity 
+or decoration with the means of the parish, are greatly to be 
+preferred, not only for the relief they aflFord to the otherwise 
+naked south wall of the chancel, but because they leave the 
+chancel unincumbered, so that it may be seen in all its broad 
+expanse of beauty. 
+
+piscina. 
+
+The piscina is usually found in the south wall, and almost 
+always adjoins the sedilia on the east. Yet it is often found, 
+in old churches, in the east wall, and other parts near by 
+where altars are or have been. It is used to receive the 
+water after rinsing the chalice and washing the priest's hands 
+at the conclusion of the celebration of the Holy Eucharist. 
+
+Its position should be at a convenient distance above the 
+floor of the sanctuary, and the niche or fenestella be so formed 
+as to receive the credence shelf, either of wood or stone 
+placed above the bason of the piscina, which may thus answer 
+a double purpose, and enable us to dispense with a separate 
+credence table or prothesis, though the latter was more com- 
+mon in earlier ages. 
+
+font. 
+
+The font is susceptible of great variety of design and deco- 
+ration. It is rarely the case, in ancient examples, that two 
+fonts are found alike, notwithstanding the constant intercourse 
+kept up between the architects of the middle ages. 
+
+The plan of the bason was most commonly that of the 
+
+
+
+44 
+
+
+
+INTRODUCTION. 
+
+
+
+hexagon, heptagon or octagon, raised upon shafts of an end- 
+less variety, though the circular boson upon a simple shaft or 
+block, and often too, of the rudest description, was peculiar 
+to the Norman churches. The bason was always large enough 
+to admit of the immersion of the infant, its interior averaging 
+one foot in depth by about two feet in diameter, comparing 
+strangely with the pigmy scoops that now adorn the chancel 
+arch of so many of our churches, and which prevent the possi- 
+bility of complying with the rubric or the parentis wish when 
+total immersion is desired. 
+
+*^ The heptagon is even less common than the hexagon for 
+fonts ; and its shape would be least of all adapted to the font, 
+according to the symbolical meaning of the different numerals, 
+with the elder theological writers ; for seven signifies perfec- 
+tion, whereas the font is the instrument of initiation. 
+
+^^ And now we arrive at the octagon, the most appropriate 
+form for the font, and the most beautiful as well as the most 
+ecclesiastical; for the octagon is not only a very graceful 
+form, and very favorable to the reception of sculpture on its 
+several faces ; but is also in itself, according to the ancient 
+method of spiritualizing numbers, symbolical of the new birth 
+in baptism ; for the seven days' creation of the natural world 
+are symbolized by the number seven ; and the new creation 
+by Christ Jesus, by the number eight, in allusion to the eighth 
+day, on which he rose again from the dead. 
+
+" And this reason St Ambrose, more than fourteen centuries 
+ago, assigned for the octagonal form of the baptistery."* 
+
+
+
+The material used in the construction of the font is not to 
+be questioned, provided it is truthful and the best the parish 
+
+
+
+o Poole's "Churches." 
+
+
+
+FONT. 45 
+
+can aflford. Stone is to be preferred, but wooden fonts lined 
+with lead, where it is wished to avoid too great an outlay, are 
+certainly more desirable than the plaster of Paris vases and 
+pedestals that would find fitter place in a garden or show- 
+man's window. 
+
+Beside the many deformities and anomalies in decoration 
+exhibited in the fonts of the present day, when ignorance and 
+ill taste are so manifest in the erection of parish churches, 
+there is nothing more deserving of criticism than the irapro- 
+priety of the position commonly assigned to the font, not to 
+speak of the violation of its typical intent. It is sometimes 
+improperly placed on a step of the chancel, or in the nave 
+near the chancel, in the vista of the long central alley, as if 
+for the admiration of the parishioners, or as a souvenir of the 
+munificence to which it owes its existence ; it is thus made a 
+conspicuous object perchance diverting attention from the 
+religious services, and a stumbling-block for the communicant 
+in his passage to the chancel. 
+
+The font should be placed at the entrance of a church ; or, 
+if there be a west door, at the extreme west end of the nave 
+or aisle ; because baptism is the entrance to the spiritual 
+church, as the door is the way into the material church. 
+When the font is not in use, its sanctity should be protected 
+from rudeness and foulness by a cover conforming in style to 
+the rest of its architecture. 
+
+When the seats at the west end of the south aisle can be 
+dispensed with, it seems peculiarly appropriate to set apart 
+that portion of the aisle formed by one compartment of the 
+nave arches, indosed with proper railing, of wood or stone, 
+as the baptistery or receptacle of the font, marking it as sacred 
+and preserving it from profane handling. 
+
+
+
+1. 
+
+
+
+46 
+
+
+
+INTRODUCTION 
+
+
+
+Pulpit. 
+
+In the Refectory of St. Marie's Abbey, Beaulieu, England,* 
+there is a unique stone pulpit, approached by stone steps in 
+a pierced arcade in the thickness of the wall, which is often 
+described, and justly too, as the beau ideal of a pulpit. There 
+are seventeen stone steps leading to its platform, elevating it 
+about seven feet above the ground floor, which, together with 
+its deeply arched recess, its small shafts and their elegantly 
+turned archivolt moldings, and the noble character given to 
+the approach, certainly make it worthy of study and ad- 
+miration. 
+
+Its architectural character is classed as that of early Deco- 
+rated, though it seems to be much earlier. Stone pulpits of 
+this period were not common, and the finest ancient examples 
+now existing are those of Perpendicular date; at this last 
+period, wooden pulpits abounded, and many fine specimens 
+still remain. 
+
+The stone pulpit of the Refectory, above described, is cited 
+as a specimen, that its manner of design and construction may 
+stir our emulation to rival its beauties, and greatly to improve 
+upon our present mode of designing pulpits and their ap- 
+proaches. 
+
+Although it is desirable that the pulpit should be of stone, 
+the least perishable of all building material, yet it might be 
+deemed an inconsistency to advise its use in the designs con- 
+tained in this volume, to the exclusion of wood. The prin- 
+ciple of having every thing the best of its kind that we can 
+afford, will not be attained until we build more in accordance 
+
+^ Beautifully illuRtroted in ** Weale's Quarterly Papers on Architecture." 
+
+
+
+PULPIT. 
+
+
+
+41 
+
+
+
+with our circumstances, and dare publish the practice to the 
+world by our works. 
+
+If twenty thousand dollars, the amount of ready money 
+which a parish may possess or subscribe, will erect an unos- 
+tentatious church, in the early English style, with chancel- 
+screen, doors and seats of veritable oak, and font and pulpit 
+of carved stone, and the windows with their symbolical 
+painted glass from the best artist's hands; it is truly more 
+honest, more churchmanlike and more consistent with the 
+dignity of architecture, than to build the same proposed 
+church in the elaborate Decorated style, with altar, pulpit, 
+chancel-screen and doors of pine, grained in imitation of what 
+they should be, and costing in the end the same amount of 
+money. Nay, the evils of this ambitious hypocrisy do not 
+always end here ; it is too common to find the church at its 
+completion, greatly involved in debt, a constant drain upon 
+the parish resources, and a fit subject for Sunday alms-begging 
+sermons ; while it stands as a monument of untruths, a preacher 
+of falsehood in wood and stone. Therefore I say^ if, taking 
+all these things into consideration, a stone pulpit cannot be 
+afforded, one of veritable pine, or cedar or oak can be, and 
+ought to be chosen. 
+
+Wo unto those who, extending the Christian church with 
+zeal, to promulgate the Truths of the Gospel, contradict their 
+divine Lord's lessons by their practice, and surround them- 
+selves by meretricious illusions and gorgeous falsehoods ! 
+
+
+
+The polygonal form seems to be the best, and is that most 
+peculiar to the ancient pulpit. Its position should be on the 
+cave wall, with steps leading to it from the sacristy; or 
+against a nave pier, with steps winding partly around its base. 
+At the same time, great care should be had so to place it, in 
+
+
+
+48 
+
+
+
+INTRODUCTION. 
+
+
+
+relation to the parishioners, that they may all see and hear 
+the preacher, without the difficulties of which they so often 
+justly complain. 
+
+The "sounding board," the name by which a species of 
+covering over the pulpit is known, merits no notice here, 
+unless to be disapproved. ^^ Nothing is beautiful which has 
+not some good and useful end.'' Its want of utility condemns 
+it, without reference to the toy-like appearance it gives to 
+the pulpit. 
+
+According to the principles of acoustics, and particularly 
+lo that which teaches the reflection of sound, it is obvious 
+theoretically that the sounding board does not answer its 
+intended purpose, but serves, as a simple trial will practically 
+prove, to reflect the voice of the speaker downward in the 
+vicinity of his nearest hearers, to the disadvantage of those 
+at a distance. The plain rule, " that the angle of reflection 
+is always equal to the angle of incidence," explains this fact 
+without further argument. 
+
+The sounding board is an invention of that period when 
+the study of science and the practice of art seemed for a time 
+suspended, and it is one of the many meaningless appendages 
+to a church that have been bequeathed to us by an age 
+of error. 
+
+The ancient architects always held in reverence this great 
+fundamental principle of their art — that ornament should ever 
+be made subservient and accessory to the thing adorned, and 
+liot that things should be created for the sake of displaying 
+embellishments. 
+
+Illumination in gilt and colors was a great medium, in their 
+hands, of giving increased effect to devices and ornaments ; 
+but as they did not devise unnecessary subjects for the exhi- 
+
+
+
+LECTERN. 49 
+
+
+
+bition of skill in ornamentation, neither did they invent orna- 
+ment, crosses or other designs^ for the sake of illumination ; 
+and where ornament and devices and crosses did not exist, as 
+in panels, on shields, or other surfaces, no attempt was made 
+to illumine or paint without the pre-existing object. If there 
+be any reason in this revered principle, it is as much an 
+anomaly in art to paint a cross or ornament in imitation, for 
+the sake of the illumination, or for the relief that may be de- 
+sired, as it would be to paint a door or a window on a wall 
+for the purpose of producing an equilibrium in the architect- 
+ural design. Let us then conclude to eschew in our new 
+works, all attempt at painting and gilding altars, fonts and 
+pulpits, if the monograms, or crosses, or ornaments do not exist 
+in alto-relievo and in this manner call for the illumination. 
+
+Architecture can only exist where light and shade are real. 
+Painting usurps the place of architecture when it is used as a 
+means of decoration ; it is only of utility in architecture when 
+it beautifies or gives more expression to forms. 
+
+The lectern or lettem, like a great many other beautiful 
+and appropriate appointments in the service of the ancient 
+Church, if not entirely forgotten, fell into general disuse, 
+during the space of time between the decline of art and its 
+revival. And then the ponderous pulpit, with its reading 
+desk, stationed in the midst of the nave alley, shut out the 
+view of the chancel and aBSumed an air of more importance 
+than the altar itself. 
+
+There are three forms in which the ancient lectern was 
+generally made, and which varied with its position ; that with 
+upright front and one inclining board ; that with two inclin- 
+
+
+
+60 
+
+
+
+INTRODUCTION. 
+
+
+
+ing book boards; and that where four book boards incline 
+pyramidally to the apex ; made either revolving or stationary 
+upon a center shaft, and all admitting of great variety of 
+architecture. 
+
+There is also another and very appropriate symbolical form ; 
+that of the eagle or pelican raised upon a slender shaft and 
+pedestal, with outstretched wings to receive the book. It 
+should be made of metal, which from its strength admits of 
+greater delicacy and lightness of form than any other material, 
+and therefore interposes less obstruction between the eye and 
+the chancel. A lectern of the latter form is better adapted 
+to larger churches than those here treated of — to churches 
+where there are more priests than one officiating. 
+
+A lectern with two book boards, one for the lessons, looking 
+west, and the other for the prayer-book, looking east, is more 
+suitable for smaller or parish churches : and its proper posi- 
+tion is in the body of the church, placed to the north or south 
+of the middle passage of the nave ; that the priest in reading 
+the lessons may look towards the people, and with them, may 
+likewise face the east in prayer. 
+
+
+
+iDatmtng anb benttlattng* 
+
+The condemnation so frequently and lavishly expressed by 
+scientific men, and also by those who are better able to find 
+fault than make corrections, touching the modern mode of 
+warming and ventilating churches, is too generally visited 
+upon the architect, disparaging his judgment, carefulness, or 
+good intentions, and unjustly damaging his reputation. 
+
+The hasty heedlessness of vestries and the ignorance of 
+building committees are often shielded in this manner from 
+righteous censure, when, at the same time, one or more of 
+
+
+
+WARMING AND VENTILATING. 
+
+
+
+61 
+
+
+
+them may have been the agency through which the empirical 
+inventor, with his "patent hot air furnace" or multiplicity of 
+ventilating registers, has just obtained encouragement and a 
+numerously signed diploma to assist him in further experi- 
+ments upon the health and happiness .of his fellow-creatures. 
+
+
+
+Science seldom assists the furnace maker in his ingenious 
+and complex contrivances, and the laws of nature are to him 
+of little consequence, so long as he can diffuse " the greatest 
+amount of heat with the least quantity of fuel" from his huge 
+atmospheric destroyer, and in return receive his pecuniary 
+consideration. 
+
+If it be really through the connivance of the architect in 
+his specification, and his acceptance of a proffered bribe, that 
+the furnace vender is enabled to impose upon the church his 
+heating and ventilating apparatus ; then the vestry or building 
+committee — even though the manufacturer of furnaces come 
+from among them — are still responsible to their constituents 
+for their carelessness in commissioning a dishonest architect 
+to undertake their works. 
+
+It may seem unjust to confine these strictures on dishonesty 
+to the sphere of my profession, but there is not here space, 
+nor is it compatible with the nature of this work to say more, 
+or a picture of vast incapacity, deception, dishonesty, bribing 
+and bonus giving could be drawn, whose details would severely 
+reflect upon too many officials, church building committees, 
+builders, and others who call themselves architects, but have 
+no right to the name. 
+
+The architect's vocation is to design, and with the aid of 
+artificers to build from his design ; and no matter how many 
+inyectives may be launched against him, he cannot be made 
+
+
+
+62 
+
+
+
+INTRODUCTION. 
+
+
+
+professionally or otherwise responsible for the manner in 
+which the building he erected is warmed or ventilated when 
+it is effected through machinery devised by othera 
+
+If the building committee think fit to introduce Mr. 's 
+
+ingenious contrivance for warming the church, and also his 
+patent ventilating register, adjusted by a cord and tassel; 
+they are responsible, and not the architect ; they are respon- 
+sible to their God for the workings of these poisonous pro- 
+cesses by which so many of their confiding fellow-creatures 
+are insensibly hurried into eternity. 
+
+Men of known scientific capacity, high honor, and intel- 
+lectual worth, should constitute building committees, and not 
+those whose very occupations, daily transactions, and limited 
+knowledge render them unfit to take upon themselves the 
+erection of a house to the honor of God, or to provide for the 
+trusting, refined and gentle portion of good Christian people. 
+
+If it be insisted, " Such an one is our largest subscriber, 
+our moneyed man and the main-stay of our enterprise ;" let 
+us answer, " Then forego your enterprise, or delay proceed- 
+ings until you may be able to build without his assistance ; 
+for Christ is the corner stone of the Church, and not his pre- 
+tending follower, and the edifices devoted to His service 
+should be founded in justice and honor and holiness.^' 
+
+If the church is to be warmed and ventilated under the 
+direction of the architect, then it becomes him to reflect 
+seriously upon the mode that will best accomplish the pur- 
+poses of heating and airing, and being thoroughly satisfied 
+that the many-voiced denunciation of the prevalent mode is 
+just, let him seek substitutes contrived upon new and dilSerent 
+principles. The simplest is the best; and though it is im- 
+practicable to adapt the spacious and elegant fire-place of 
+former times to modern purposes, we can yet keep the prin- 
+
+
+
+WARMING AND VENTILATING. 63 
+
+ciple in view, and, as Franklin did, modify it to snit our more 
+economical material and present requirements. 
+
+- If the principle of combining ventilation and warming in 
+the same apparatus is kept in view — ^and there are abundant 
+reasons for so doing — ^the hot air furnace will soon fall into 
+disuse, and scientific investigation may then take another and 
+wiser direction, and humanity receive its benefits. As it is, 
+the hot air, rushing up from rusty, complicated twistings, that 
+seem to burn up its vitality before it accomplishes its purpose, 
+and the noxious gas generated to find its easy exit through 
+expanded joints, must still be breathed, if shrewd, untaught 
+inventors are to be encouraged, in preference to the more 
+skilful and scientific. 
+
+Pure air favors health — ^bad air begets disease. A volume 
+of words should not be needed to prove these maxims. The 
+mere mention of the modern drawing-room will be suggestive 
+of sad reflections on the insalubrity of vitiated air, dry heat and 
+the e£9uvia of crowds ; and it should be our earnest effort to 
+abate similar ills and their baleful consequences in erecting 
+our structures for religious worship and edification. 
+
+The preceding remarks are founded upon a belief that a 
+substitute can be adopted with good results; and here an 
+effort to that effect shall be made, lest the author be classed 
+with those idle cavillers who are ever ready to condemn, 
+but loth to devise, when a remedy is desired of them — who 
+acknowledge the prevailing evil, but fear the scoffs that await 
+them should they dare to oppose the rage of current opinion. 
+
+To be brief then in the description of a substitute in which 
+warmth and ventilation shall be combined. 
+
+Fire is an agent as useful in ventilating as in warming a 
+
+
+
+54 
+
+
+
+INTRODUCTION. 
+
+
+
+given space. We feel the warmth of the fire ; and the 
+atmosphere that comes in contact with it is burned up. The 
+vacuum produced by the combustion of oxygen is readily 
+supplied by an influx of fresh air, and thus by the rush of air 
+the impurities and bodily exhalations are continually and in- 
+sensibly expelled. Carbonic acid gas, which is exhaled from 
+the lungs, is heavier than the atmosphere, and can only be 
+expelled from below, by means of registers placed in the 
+floor and so arranged as not to be exposed to heavy currents 
+of air. 
+
+The coal then — or wood where it may be preferred — ^must 
+be brought up from the cellar and placed in receptacles, 
+"rough hew them how we will," that will further these ends. 
+
+Grates built in the wall are not economical, though they 
+subserve one of our two desiderata — that of carrying oflF the 
+impurities of the air we breathe. Stoves are economical, and 
+diffuse a greater amount of heat than any other heating appa- 
+ratus — which would fulfil our second purpose ; but they injure 
+the atmosphere and do not expose a sufficient surface of fire 
+to the air to effect the requisite degree of ventilation. 
+
+Combining, then, the two principles — either one being 
+partly good in itself, and both together being perfect — ^we 
+have the sheet iron " Franklin," introducing the grate, set in 
+fire brick, and adapted in size, design, number and ornament, 
+to the church in which it is intended to be used, and we place 
+it near to the wall, with the sheet iron pipe connecting hori- 
+zontally with the smoke flue, or further removed, with an in- 
+creased length of pipe, which is the most economical position. 
+Care should be taken to include in the design a copper vessel 
+of some kind, made to contain water, that by means of its 
+evaporation the atmosphere that is robbed of its moisture in 
+coming in contact with the heated metal, may be replenished. 
+
+
+
+CANONS OF GOTHIC COMPOSITION. 
+
+
+
+65 
+
+
+
+Having provided the requisite warmth, and carried off the 
+imparities of the atmosphere, the supply of fresh air is now 
+to be considered. The patent registers usually placed near 
+to the ceiling, allowed an egress to the rarified or lighter air, 
+which is good air^ and robbed us of the warmth that otherwise 
+might be enjoyed and which is so expensive a commodity in 
+winter. These registers must be taken down and placed a 
+sufiScient distance above the ground to avoid its gaseous ex- 
+halations, and in such positions in the wall, opposite to the 
+fire-places, as may be most convenient. Their construction 
+in the wall must be so modified as to connect indirectly with 
+the outer atmosphere through a flue, so as to avoid percep- 
+tible draughts of air. In this way a sufficient supply of fresh 
+air will be introduced, both summer and winter, without re- 
+sorting to the homely expedient of "luffer boarding clear- 
+story windows"* or disfiguring or annulling the uses of other 
+portions of the church. 
+
+For warm weather, two or three small luffer-boarded win- 
+dows, placed opposite one another, will answer all the purpose 
+of carrying off the rarified air near to the roof ; but, in cold 
+weather, they must be closed. Where the roof is not open 
+to the rafters, windows made in the same manner, and inserted 
+in the gables, will tend to produce a current, and carry off 
+the heated air between the timbers of the roof. 
+
+
+
+(ilanons of (Botl)tc (ilomposttion. 
+
+The following rules are esteemed by Mr. Paley among the 
+principal canons of ancient and modern Gothic composition. 
+They deserve a more distinguished place than the conclusion 
+
+
+
+o The New York EcclesiologiBt, Vol. n. No. n. p. 68. 
+
+
+
+66 
+
+
+
+INTRODUCTIOJ!^. 
+
+
+
+of a chapter. Still, as they are fair deductions from its prin- 
+ciples, they may constitute its fit sequel ; and, on account of 
+their great importance, it is trusted that they will be the last 
+to be forgotten by the reader. They are arranged in juxta- 
+position that they may the more easily be compared. 
+
+
+
+THE ANCIENT PRINCIPLBS WERE: 
+
+1. To make uniformity of design 
+entirely subservient and secondary 
+to utility. For instance, never to 
+insert a useless window or an un- 
+necessary buttress in one place sole- 
+ly to fill up or relieve a blank space, 
+or because it occurs in another cor- 
+responding place: but to pile to* 
+gether, to insert, to add, with any 
+degree of fearless irregularity what- 
+ever. Ignorance of this leading prin- 
+ciple has been the cause of half the 
+fidlures in modem designs. 
+
+2. To use decoration only as a 
+means of relieving necessary con- 
+structive features ; and never to add 
+any detail adventitiously, for its own 
+sake, solely for effect and irrespect- 
+ively of position, meaning and pro- 
+priety. Thus, to make a blank win- 
+dow or doorway, to set up an un- 
+meaning niche without a statue in it, 
+to erect sham gables, block off but- 
+tresses midway, because the lower 
+part is not seen (!) as at the Pitt 
+Press, Cambridge, or msert canopies 
+with nothing for them to receive, are 
+examples of fidse principles. Almost 
+all architects of the last generation 
+committed these errors. They saw 
+niches and turrets, and odd-looking 
+excrescences in old churches, without 
+ever knowing what they once con- 
+tained, or why they were erected. 
+
+
+
+THE MODERN PRINCIPLES ARE : 
+
+1. To make buildings unifcrm by 
+equal and similar wings, correspond- 
+ing doorways, windows of the same 
+size and kind, level and regular ele- 
+vations, not broken up into parts 
+of gpi'eater or less prominence and 
+height. ' 
+
+Every Gbthic new building in 
+Cambridge exhibits these fitults, 
+which are the certain result of the 
+same hand composing in two contra- 
+dictory styles. Classic and Gothic. 
+
+2. To add unnecessary and un- 
+meaning ornament in conspicuous 
+positions to attract the eye and pro- 
+duce a showy appearance, leaving 
+the less exposed parts bare and na- 
+ked in the contrast. 
+
+
+
+CANONS OP GOTHIC COMPOSITION. 
+
+
+
+57 
+
+
+
+Hence wo may deduce two further 
+rules: first, to make construction 
+and propriety of composition the pri- 
+mary, decoration the secondary ob- 
+ject, and not to decorate at all until 
+a substantial and durable &amp;bric shall 
+have been fully provided for; sec- 
+ondly, to regard reality and truth- 
+fulness before mere show, and to 
+conceal nothing from a fiuicied im- 
+propriety of appearance. 
+
+d. To attend exokuiveiy to utility 
+and to let effect take care of itself. 
+Thos if there is any reason for part 
+of a window to be encroached upon, 
+as at Hauton, Notts, or one pinnade 
+to be larger than another, as in the 
+tower at Grantham, or one angle of 
+a tower to be propped with a larger 
+buttress, as at Homingsea, near Cam- 
+bridge, or an arch to be contracted 
+or widened to any extent, — to obey 
+the demand fearlessly and without 
+hesitation. Modem men often adopt 
+the most awkward expedients to 
+avoid what is really a great beauty 
+instead of a blemish. 
+
+4. To create ideal extent by mul- 
+tiplicity of parts, ^by distribution of 
+thrusts, division vertically and hori- 
+zontally by buttresses and string- 
+courses, repetition of features and 
+compartments of continuous vaults 
+and roofs ; and ideal height by nar- 
+rowness combined with length, which 
+are the conditions of the most effi- 
+cient perspective. 
+
+5. To attain infinite variety, both 
+of details and arrangement, even to 
+the extravagant indulgence of ca- 
+price by combining, adapting, and 
+diverfflfying given elementSy as mold- 
+
+
+
+3. To place effect before utility, 
+as by building an inconvenient or 
+unnecessary feature because it is sup- 
+posed to look well. Hence we have 
+doors which afford no entrance, tur- 
+rets with no available interior, and 
+chimneys which do not emit smoke. 
+
+
+
+4. To erect buildings whose pri- 
+mary idea is that of a large unbroken 
+area, without columns and arches, 
+with wide roofs and without dis- 
+tinct component parts. Such were the 
+great majority of the modem church- 
+es, which often had neither buttress, 
+nor string-course, nor arch in the 
+whole design ; in short nothing Go- 
+thic about them except the minor 
+details. 
+
+5. To use itsgtte a4 nauseam a 
+few hackneyed Gothic details, copied 
+fi*om celebrated churches or cathe- 
+drals, or borrowed from books ; and 
+to apply these without sufficient re- 
+
+
+
+8 
+
+
+
+58 
+
+
+
+INTRODUCTION. 
+
+
+
+ings, arches, Bhafts, panelings, tra- 
+cery, etc. 
+
+6. To make extreme simplicitj 
+and extreme richness of workman- 
+ship compatible with the same tnie 
+principles, by always regarding the 
+latter as merely the luxury of art^ 
+and the legitimate scope for ingenu- 
+ity, expenditure and gradual execu- 
+tion. 
+
+7. To regulate the exterior plan 
+solely by the internal requirements. 
+
+
+
+8. To aim at apparent lightness, 
+combined with actual strength ; and 
+at the same time to satisfy the eye 
+by giving the idea of security from 
+each part haying its own peculiar 
+support. 
+
+
+
+gard to difference in the kinds and 
+character of buildings. 
+
+6. To sacrifice solidity and strength 
+to unnecessary and adventitious or- 
+nament, and to impoverish the fitb- 
+rio to obtain the greatest possible 
+amount of conq&gt;icuous but needless 
+decoration. 
+
+
+
+7. To arrange exterior elevations 
+without regard to the nature of the 
+interior, or to force the latter to suit 
+the former; as to give the outward 
+appearance of nave and aisles where 
+there are no columns or arches in- 
+side; of three gabled roo&amp; where 
+there \a but one flat ceiling within ; 
+of pinnacles or gable-crosses which 
+are but chimneys. 
+
+Hence the custom of building 
+masks either to hide necessary parts 
+which do exist, or to give the idea 
+of those which do not. 
+
+8. To be satisfied with actual weak- 
+ness without even apparent lightness, 
+as by the use of plastered timber to 
+imitate stone, and by the omission of 
+essential constructive details, such as 
+shafts, moldings, and the viable re- 
+sistance of lateral thrusts. 
+
+
+
+Namenclatttre. 
+
+
+
+
+*' Qbdhi is Heaven's first law ; and this oonfest, 
+Some are, and must be, greater than the rest." 
+
+HE vexed controversy on the nomenclature 
+and the classification of the several styles of 
+English medieval architecture seems now 
+somewhat to have subsided. The archaeolo- 
+gist has apparently exhausted his vocabulary 
+of terms in applying them to designate the different styles ; 
+and the student, for whom these classifications were benevo- 
+lently prepared that he might more directly and easily arrive 
+at a true understanding of Gothic architecture, is almost as 
+much perplexed in endeavoring to find the least abstruse 
+authority among so many guides, as to determine the merits 
+of the various systems of nomenclature proposed. 
+
+With those of Rickman, Bloxam, Milner, Dallaway, Paley 
+and the English Ecclesiological Society and divers others be- 
+fore him, verily the task of selection seems hopeless ; and the 
+study of most of them would involve him in confusion, and 
+leave him hardly more edified than one living before these 
+productions saw the light, in that lethargy of the art which 
+our authors have striven to dispel, and that chaos of archi- 
+tecture which they aimed to organize into science. 
+
+
+
+That they have simplified the study of Gothic architecture, 
+it is presumed will not be generally conceded. Though their 
+
+
+
+60 
+
+
+
+NOMENCLATURE. 
+
+
+
+productions teem with theories, inventions, and hallucinations 
+of fancy, as might be expected from such versatile talents 
+and prolific imaginations, engaged upon a subject invested 
+with such high importance and such deep interest to all 
+estates of men in the land ; yet the end has not much varied 
+from the beginning, and the theory of one writer is made to 
+answer that of another, metamorphosed as it may be, by 
+multiplying the number of styles, by the device of need- 
+less distinctions, by changes of names, and by a wordy 
+rhetoric. 
+
+These remarks on the nomenclature of the art are intro- 
+duced because I owe to the reader a reason for adopting the 
+names of the Early English for the First period of English 
+Gothic architecture, the Decorated English for the Second 
+period, and the Perpendicular English for the Third period. 
+
+
+
+It is the nomenclature first proposed by the late Thomas 
+Rickman, P. S. A., in his "Attempt to Discriminate the Styles 
+of Architecture in England." And " the character of this 
+extraordinary man, whose genius first reduced this chaos into 
+order, was not calculated to diminish the violence of his op- 
+ponents." Hence sprang into print and publicity the vague 
+ideas and inappropriate phraseology of those academic plagi- 
+arists who delight to find additional occupation in a novelty 
+of the day, whose prolific pens hasten to reproduce the ideas 
+of original inventors, and who have done little better than 
+substitute names with additional divisions of styles, and to 
+expand this admirable autbor^s descriptions of his own classi- 
+fied divisions. 
+
+The use of Mr. Rickman^s terms and chronology has now 
+become general and well understood. The exactness dis- 
+
+
+
+NOMENCLATURE. 61 
+
+
+
+played in his discriminations of the styles, the precise date 
+assigned to each — allowing always for a transition from one 
+style to the other — the few terms used and their appropriate- 
+ness to the subject, render his work an easy basis of study, 
+rather to be emulated than perverted by the professors of 
+architecture. 
+
+There may be a more beautiful terminology ; but his sys- 
+tem has now been so long in use that a mere change of 
+names, while we retain his original, chronological order, 
+is truly useless, and tends by its vagueness to mystify the 
+minds of many with regard to that which was before so lucid 
+and precise. 
+
+This feeling seems to have been predominant with Mr. Boid, 
+in his ^* History of all the Principal Styles of Architecture, 
+when adopting First, Second, and Third, in order to avoid as 
+much as possible the use of technical language in a popular 
+work." 
+
+Mr. Boid's classification, says the English Archaeological 
+Journal, from which I borrow the following terse remarks, 
+was '^ perhaps more sensible than the general abuse of Rick- 
+man's technical ternw with which every one has been wearied 
+of late. But this judicious avoiding of technical language is 
+widely different from the plan proposed by the [English] 
+Ecclesiologist in 1846, of adopting, ^ First, Middle, and Third 
+-Pointed,' as a new technical language, and doing away with 
+the name of ^ Gothic' altogether, as inappropriate, overlooking 
+the fact that this name is applied, in the same manner as we 
+apply it, in every language in Europe." 
+
+*^ It is easy to show that the objections to this proposed 
+new nomenclature are at least as great as any that apply to 
+
+
+
+62 
+
+
+
+NOMENCLATITRE. 
+
+
+
+Rickman's terms. In the first place, the transition from Nor- 
+man, or what Mr. Bloxam calls the ^ Semi-Norman Style,' is 
+unquestionably the ^ First Pointed Style.' It is not a Gothic 
+Style, but it is Pointed. Secondly, to describe a church as 
+having ' First Pointed round-headed doorways,' and ' Middle 
+Pointed square-headed windows,' is more absurd than any 
+thing in Rickman. Tet such examples do occur, and that not 
+by ones or twos, but by tens and hundreds. In some dis- 
+tricts, almost every church will be found with either Early 
+English round-headed doorways, and sometimes pier-arches 
+also, or with Decorated square-headed windows. In other 
+words, it was a very common practice in the thirteenth cen- 
+tury to use round arches with all the details of pure Gothic 
+work, and in the fourteenth century it was still more common 
+to use square-headed windows, often with very beautiful 
+moldings and details, and tracery. 
+
+" Thirdly : It would be very possible to build a thoroughly 
+good Gothic church, taken entirely from fine ancient exam- 
+ples, without a single pointed arch throughout. This is fatal 
+to the scheme; it proves that the pointed arch is not an 
+essential feature but an accident of that style, which by the 
+common consent of aJl Europe is called Gothic, and whatever 
+the origin of the name may have been, any attempt to change 
+it is now too late. Another serious objection to the proposed 
+^ new nomenclature' is its vagueness and want of precision, 
+no one can say where the first style begins or ends." 
+
+
+
+The preceding extract has been made, not solely for the 
+purpose of confirming the ideas advanced of what is correct, 
+easy of practice and eminently useful, but also that there may 
+be greater force and meaning given to the objections that are 
+urged against the adoption of the proposed nomenclature of 
+
+
+
+NOMENCLATURE 
+
+
+
+63 
+
+
+
+the English Ecclesiological Society, which has been promul- 
+gated here to a certain extent by a kindred society,* perhaps 
+with more praiseworthy zeal, than sensible propriety. 
+
+The study of architecture is but in its infancy among us, 
+and its greatest encouragement and most effectual progress 
+are to be achieved by the professors of the art who elucidate 
+its first principles clearly and truthfully. For this reason 
+Rickman's discrimination of the styles, which was the first 
+ever placed before the English people, still remains in the 
+ascendant and bids fair to maintain its position. 
+
+* Hie Kew York BooleBiologloAl Society. 
+
+
+
+
+€atlit ^Miiiif. 
+
+
+
+DESIGN I 
+
+
+
+PIATE II. 
+
+
+
+
+f*"^l 1 
+
+
+
+JOmmiuAn.J^ti^d. 
+
+
+
+^BBHBI 
+
+
+
+■■■■H 
+
+
+
+Ltk.pfS^ror,jlG&gt;.J(r. 
+
+
+
+^munir "Jlan. 
+
+
+
+ftjarlji (fnsiliati. 
+
+
+
+
+IVriil €lrii»Hr&gt;n. 
+
+
+
+^^^^^p 
+
+
+
+«v 
+
+
+
+s* 
+
+
+
+u 
+
+n 
+
+
+
+^■4 i^r-i ^ :k-&gt;?^' 
+
+
+
+h' H 
+
+
+
+
+'&lt;K-«r-MI — J-'— V-*- ii- TZ? &gt;- M ■ II - - ■ -I 
+
+
+
+vr^ 
+
+
+
+x^- 
+
+
+
+
+
+
+r. 
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+^1 
+
+
+
+5 
+
+
+
+
+
+
+Ifiarlii €itgltsli. 
+
+
+
+
+(Lrannttfrar ii'crliiiii. 
+
+
+
+Jarltj i£n^iish. 
+
+
+
+^nalt)a ta. 
+
+
+
+v? 
+
+
+
+B 
+
+S9 S 
+
+
+
+:otlg ^nglial) 0tglt. 
+
+
+
+-ect, serere, tiustore, sabHine. 
+
+
+
+t not all ; but piecemeal thou moat break, 
+M coatempUUoD, the great whole ;" 
+
+
+
+OLLOWING the classificatioo 
+that I have adopted, that of the 
+late Thomas Rickman, this is the 
+(Cond period of English archi- 
+ctare, and the first of the point- 
+1 or Gothic styles. It prevailed 
+aJl its magnificence and without 
+tment about one hundred and 
+en years, succeeding the Norman 
+towards the latter part of the 
+ry, or commencing in the reign 
+hard L, and continuing to the 
+the fourteenth century, when it 
+•ged into the next or Decorated 
+style. 
+
+The reign of Richard I, be- 
+ginning in the year one thou- 
+sand one hundred and eighty- 
+nine, was the principal period of the transition from the Nor- 
+man to the Early English style. 
+
+
+
+66 
+
+
+
+ANALYSIS OF THE 
+
+
+
+*' Just at the period when that which may be called the 
+Bound or Lombard style of architecture appeared throughout 
+the dominions of the Latin church, most firmly and universally 
+established-when it had, from its first source, spread in every 
+direction, as far as the most extended influence of that church 
+itself — when its forms might, in a manner, have served to 
+mark, throughout Europe, Asia, and Africa, the precise extent 
+and limit of the papal authority — when, from its universal 
+prevalence, it seemed to have secured an unlimited duration 
+in the latter half of the twelfth century — ^we see it all at once 
+abandoned for a style, both in its principles, and its ornamental 
+accessories, entirely new, and different from that, and from 
+every other former style."* 
+
+It was during the prevalence of the Early English style that 
+a great impetus was given to architecture and probably to the 
+projection and erection of a greater number of ecclesiastical 
+edifices than in any former or subsequent period. Its greater 
+flexibility and easier adaptation to the ecclesiastical wants of 
+those times, the reduction of what was heavy and cumbrous, 
+and the almost total disuse of any architecture that partook 
+of a pagan character, soon firmly established it as purely 
+Christian and, as it were, indigenous to the soil of the 
+Church. 
+
+Early English doorways may be classed as those with 
+shafts^ plain, banded or filleted — continuovs when the arch 
+moldings are carried down the jambs— /oZiafec? when the 
+inner arch is trefoil or cinquefoil headed, with the outer 
+
+o Hope's Historical Essay on Architectuie. 
+
+
+
+EARLY ENGLISH STYLE. 67 
+
+moldings sometimes conforming to it — ^and double arched when 
+the opening of the arch will admit of the center shaft dividing 
+the door in two, with a quatrefoil or other ornament in the 
+tympanum. 
+
+There are but few doorways of the last-named style in 
+small churches — ^it is mostly confined to cathedrals and other 
+large buildings. 
+
+The several varieties of the pointed arch are in promiscuous 
+use in the doorway, though the drop arch is the most common, 
+and, when the jambs are deeply recessed and the arch mold- 
+ings numerous, the outer arch has the appearance almost of a 
+semi-circle; the round arch, with Early English shafts and 
+moldings, is occasionally met with, and also the square-headed 
+trefoil ; the latter is confined to priests' doors, doors to turrets 
+and passages. 
+
+The shafts are small and delicate, placed in rectangular 
+recesses, almost always detached, and they were wrought out 
+of Purbeck marble or other fine material, diflferent from that 
+of the rest of the doorway ; the capitals are generally enriched 
+with bold and well-relieved foliage, but bs often consist of 
+plain deeply undercut moldings ; the base of the shaft is 
+* various, and there is one generally used that has a most 
+striking resemblance to the Attic base, with its rounds and 
+hollows, the latter deeply undercut. 
+
+The arch moldings are cut in rectangular planes, and when 
+they are numeroas, all of the characteristic moldings of this 
+style will be found among them. 
+
+Although there are good examples of doorways without 
+any ornament, yet there is a general enrichment of the hollows 
+
+
+
+±1 
+
+
+
+68 
+
+
+
+ANALYSIS OF THE 
+
+
+
+of the arch moldings and the jamb between the shafts with 
+the tooth ornament, leaves and other peculiar decorations. 
+
+The drip-stone is seldom omitted, and its terminations are 
+either decorated with heads and clumps of characteristic 
+foliage, or are returned horizontally ; the latter form is most 
+usual and often continued around buttresses and other pro- 
+jections. 
+
+- The doors are seldom paneled or traceried ; their relief 
+consists in the ornamented hinge and appended iron scroll 
+work, sometimes on the inside as well as the outside. 
+
+The hinge, in some instances, is merely a plain iron strap, 
+with heavy projecting nail heads, and, in others, the scroll 
+work added to the hinge, covers the door in great variety 
+and beauty of design. 
+
+It was during the Early English period that the art of 
+working in iron reached its highest medieval perfection. 
+
+
+
+toinb 
+
+
+
+OtD0. 
+
+
+
+In describing the peculiarities of this style it might be said 
+that the lancet-shaped window was a conspicuous feature. It 
+is observable in large buildings, but the remark does not 
+strictly apply to parish churches, in which other forms pre- 
+dominate. 
+
+The lowness of the walls in Early English churches did not 
+encourage the adoption of the long, narrow, lancet-headed 
+windows ; those in general use are of greater width in pro- 
+portion to their height than what is usually called the lancet, 
+and it is very remarkable that they increase in width to a 
+certain extent as the height is diminished. 
+
+The equilateral arch, requiring a wall of less altitude, and 
+
+
+
+' 
+
+
+
+EARLY ENGLISH STYLE. 
+
+
+
+69 
+
+
+
+aflfording a wider opening, was necessary in the construction 
+of windows that were limited in height, and it favored the 
+early mode of building, as may be naturally concluded, since 
+the equilateral-headed window is the most common. That as 
+much height as possible might be gained inside, the arch of 
+the interior was seldom made concentric with that of the 
+exterior, but either of a drop or segmental form, with a soffit 
+quite or nearly horizontal. 
+
+The exterior angles of the jambs are but slightly chamfered, 
+thereby allowing great depth of splay in the interior, which 
+necessarily increases the width of the opening in the plane of 
+the wall within to several times the width of the glazed aper- 
+ture. The arris of the interior angles thus formed was relieved 
+by a simple bowtel or a series of moldings that were seldom 
+omitted ; the chamfered arch at the head, with or without 
+corbels, is peculiar to the windows of this style, and is gener- 
+ally found with the segmental and drop arch. 
+
+The single-light, equilateral arched window— its greatest 
+beauty consisting in its simplicity — was in general use during 
+the prevalence of this style. In its gradations to the window 
+of the next period, the rude trefoil arch was not unfrequent, 
+and from it arose the primitive cusp, formed independently 
+of the outer splay and attached to the soffit of the arch. 
+
+
+
+The triplet window, the most remarkable combination and 
+peculiarity of this style, is chiefly confined to the east end of 
+the chancel, and it is in this position that its symbolism is 
+most suitable. 
+
+Two windows long and narrow, and placed side by side, 
+are not unusual in the same situation ; neither the triplet nor 
+
+
+
+70 
+
+
+
+ANALYSIS OP THE 
+
+
+
+doublet window is however confined to the east or chancel end, 
+as there are many examples of each in various other positions. 
+
+Windows in combination of three, five, and seven — the 
+central one being the greatest in width and height, with the 
+others decreasing in these respects as they are placed out- 
+ward — were ordinarily included under one drip-stone, with 
+their divisions so small that they seem more like lights of one 
+window, than really separate and distinct openings; their 
+individuality is in some examples preserved to a greater ex- 
+tent by forming the drip-stone from the same centers as those 
+of the arch of the window. 
+
+From these combinations of narrow windows and their per- 
+forations and their soffit cusps arose the single, traceried win- 
+dow of the next style. 
+
+Unlike the preceding style, the ornamental shafts of the 
+windows are mostly confined to the interior, and on account 
+of their diminutive diameter and great length, they required 
+additional strength in the central band ; their base partakes 
+of the Attic peculiarities, and the capital, though often devoid 
+of ornament, is as often characteristically enriched. 
+
+The arch moldings receive their greatest beauty from the 
+boldness with which they are undercut ; the tooth and other 
+ornaments are common to the hollows of these moldings. 
+
+The shafts of the piers and jambs vary in number, are iso- 
+lated and, like those of the doors, were cut out of marble or 
+fine stone, different from the other work, and polished. 
+
+Such ornamentation of the interior of the windows is pe- 
+culiar to this style ; the depth of jamb, and its deep shadow, 
+and the eflfective grouping of all its appendages, were entirely 
+forgotten in the interior of windows of the succeeding styles. 
+
+
+
+EARLY ENGLISH STYLE. 
+
+
+
+71 
+
+
+
+Clear-stories are very rare in Early English churches and 
+consequently there are but few examples of clear-story win- 
+dows ; these are the circular and spherical triangular, trefoiled 
+or quatrefoiled, and the two light windows, diflfering but little 
+from those of the aisles. 
+
+
+
+The plan of the Early English pier varies from great sim- 
+plicity to complexity of arrangement ; the oldest are octan- 
+gular and circular, placed in some churches alternately. 
+
+Following so closely the Norman style, when piers were 
+massive and ill proportioned, they retained at first somewhat 
+of the Norman character — the pier being generally the last 
+member to be affected by the introduction of any new style ; 
+but as architects became better skilled, they were satisfied 
+with piers, always of sufficient stability, yet smaller and with 
+more delicate outline. 
+
+This led to greater boldness and consequent improve- 
+ment ; and the use of a central pier, around which clustered 
+delicate, detached shafts, varying in number — of some finer 
+material than the main pier, generally of Purbeck marble 
+highly polished — predominated over all others. At length 
+the slenderness of the shaft and its increased length demanded 
+the band or annulet as additional ^curity ; this was placed 
+midway on the shaft, and fastened to the main pier : in large 
+buildings, the number of the bands is variously increased. 
+
+The capitals of the piers are numerous in design and for 
+the most part plain ; the upper members heavy, in bold relief 
+and bell-like shape, and, where there are shafts, these mem- 
+bers often continuing around the centre pier : where the shaft 
+
+
+
+72 
+
+
+
+ANALYSIS OP THE 
+
+
+
+of the pier is multangnlar or circular, the moldings conform 
+to its plan. 
+
+When the capitals are ornamented, the foliage approximates 
+to nature, flowing and well relieved ; it is on the capitals of 
+the pier shafts that the most elegant sculpture is seen. 
+
+The bases, like those of the window shafts, bear a strong 
+resemblance to the Attic base ; the designs of the bases are 
+not so numerous as in the other styles : the reversed ogee is 
+not uncommon. 
+
+When the plinths are rectangular, as they are generally in 
+circular and octangular piers, the triangular spa.ces below the 
+torus, on the plinth top, are relieved by a leaf springing out 
+of the torus or lower member of the base, and gracefully fall- 
+ing 09 these triangular spaces. 
+
+No peculiar form of arch is, without exceptions, a distin- 
+guishing feature of any one of the Gothic styles separately, as 
+some have supposed ; and I will therefore extend this descrip- 
+tion to arches in general, as used in this and both of the fol- 
+lowing styles. 
+
+The drop and the equilateral arch were employed in all of 
+the Gothic styles. Towards the latter part of the Perpendic- 
+ular period, they gave way to the introduction of the four- 
+centered arch, which is to a degree a peculiarity of the style, 
+although an invention of an earlier period. 
+
+
+
+The lancet arch is, though not invariably, characteristic of 
+the Early English style : it is sometimes employed in the 
+Decorated, but very rarely in the Perpendicular. 
+
+
+
+EARLY ENGLISH STYLE. 73 
+
+I 
+
+The ogee or contrasted arch is an invention of the Decorated 
+period, and was continued in use through the Perpendicular 
+style, yet with less frequency than in the Decorated. 
+
+The potnted-segmental^ the rounds the tref oiled and the cinqiLe' 
+foiled arches are also common to the Early English style ; the 
+latter are most usually found in panels, arcades, niches and 
+doors of small proportions. 
+
+It is not uncommon in Perpendicular work, particularly in 
+screens, tabernacle work and paneling, to find all the arches 
+which are used in the three diflFerent styles, blended together 
+in one design ; this mixture denotes late or debased work, as 
+does also the flattening of the four-centered arch. 
+
+
+
+In the Norman style, in which the walls were very thick, 
+the buttresses were merely flat projections, apparently built 
+out of the wall, more for the purpose of relief, than as a dis- 
+tinct erection necessary for support or resistance. A con- 
+tinued reduction of the thickness of the wall, and an increased 
+projection consequently given to the flat buttress, eventually 
+made it a distinguishing feature in the future styles. 
+
+Early English walls are not so thick as those of the Norman 
+works, and the omission of the tie beams in the construction 
+of their roofs, rendered it necessary that greater resistance 
+should be given by the walls to the pressure from the roo£ 
+It was effected by the buttress. At first this buttress was but 
+a slight improvement on that of the Norman, but it gradually 
+received greater projection, with a reduced width ; the incli- 
+
+
+
+10 
+
+
+
+74 
+
+
+
+ANALYSIS OF THE 
+
+
+
+nation of the set-oflFs is very acute, the lowest member some- 
+times continued laterally around the buttress, when allowed 
+by the reduction of the upper stage ; the stages are few, most 
+frequently two in number, with the angles of the buttress 
+sometimes chamfered, plain sloped, or ornamented at their 
+terminations. 
+
+The pinnacled, gabled and arch-buttress were not in gen- 
+eral use in this style, and were mostly confined to large 
+buildings. 
+
+The gablet, which evidently suggested the gabled buttress, 
+was commonly placed on the sloping weathering of a buttress, 
+coping to gables, et cetera. 
+
+One particular worthy of notice is that the walls of a ma- 
+jority of the Early English churches, and their buttresses, are 
+devoid of all base moldings, or any approximation to a base. 
+
+
+
+iltolbing0- 
+
+The moldings of this style are not very numerous ; they 
+are principally marked by their constantly recurring deep 
+undercuts and bold, intervening members. 
+
+The bowtel, and rounds and hollows predominate, with 
+various modifications ; the bowtel is varied with the addition 
+of one, two or three fillets ; there is also the bowtel of one 
+fillet almost reduced to an arris, and the rounds deeply under- 
+cut, leaf-like, on one side ; splays are sometimes used ; rounds 
+and hollows join without separating fillets, and two or more 
+smaller members are placed between larger ones. 
+
+
+
+There was less geometrical precision used in the drawing 
+
+
+
+EARLY ENGLISH STYLE. 
+
+
+
+76 
+
+
+
+of the Early English moldings than in any of the subsequent 
+styles ; but in their positions, as in the arches of doors and 
+windows, and in nave arches, the moldings, often being drawn 
+with easy and graceful curves, were made so to conform, that 
+the contour of the most conspicuous members, would touch an 
+imaginary line drawn in a series of rectangular planes. 
+
+The enrichments of the moldings are not numerous, though 
+rendered very eflFective through the bold and easy manner in 
+which they are relieved in the hollows. 
+
+The dog-tooth ornament, in general closely repeated, is 'the 
+most prevalent ; leaves and flowers, singly or in running pat- 
+terns, were also used. 
+
+
+
+At one time but little importance was attached to the sup- 
+posed Early English timber roof, on account of the simple and 
+rude manner of its construction ; in fact almost any rudely 
+constructed roof, though properly belonging to the Norman 
+period, was considered peculiar to the Early English style, 
+and so it was difficult to cite any examples possessing archi- 
+tectural merit. 
+
+The primitive character of the framing work, and the pres- 
+ence of the rude nail-head carved upon the tie-beam — which 
+was supposed to be the tooth-ornament in its incipient state — 
+tended greatly to promote the error thq-t tl^e Norman roof 
+originated in a later period. 
+
+. Faithful archaeological research has discovered for the Early 
+English style its own peculiar roof, and assigned the rude tie 
+beam roof to a much earlier period. 
+
+
+
+76 ANALYSIS OF THE 
+
+The Early English roof is distinguished by the truss-like 
+arrangement of its timbers ; the rafters being placed one foot 
+six inches or two feet apart, and each pair of rafters secured 
+together by diagonal or cross braces, and sometimes with the 
+addition of one or more collar beams, placed above or hori- 
+zontally intersecting these cross braces. The timbers at their 
+intersections were either tenoned or halved and secured with 
+wooden pins ; the average of the scantling was four by five 
+inches. 
+
+In some early examples, a rude tie beam, placed at remote 
+intervals, was retained with this arrangement of the rafters ; 
+but without tie beams, this roof is designated as the "trussed- 
+rafter-roof ;" it was without ridge pieces or purlins ; the 
+plate was placed on the center of the wall ; on it were halved 
+pieces resting horizontally and at right angles, to each of 
+which was secured the foot of a rafter ; the inner end of each 
+piece was retained in its proper position by a vertical piece 
+framed into it and the rafter, which gave additional security 
+to the whole framing. Two plates were sometimes used, 
+when the inner one was slightly projected and molded as a 
+cornice. 
+
+The aisle roof, in the early period of this style, was formed 
+by continuing the rafters of the nave roof over the aisle. 
+When the clear-story was used, a separation of the nave and 
+aisle roofs became necessary. 
+
+The disconnection of the two roofs made but a slight difier- 
+ence in their framing. The principal timbers of the ajsle roof 
+were yet made to correspond with those of the nave. A simi- 
+larity is also to be observed in other part;s of the roofs. 
+
+When the width of the aisle would not admit of the qse of 
+
+
+
+EARLY ENGLISH STYLE. 
+
+
+
+the lean-to roof^ the gable roof was snbstitated, and made of 
+low pitch that it might not obstract the light of the clear- 
+story windows. 
+
+These, and the following remarks on the aisle roofs of this 
+period will apply as well to those of the succeeding styles. 
+
+
+
+Gable roofs, although frequently of great elevation, are sel- 
+dom found of an equilateral pitch or an angle of sixty degrees. 
+
+Aisle roofs were generally of a low pitch. The rise from 
+the exterior or aisle wall to the nave wall was not more than 
+snfBcient to place the wall plate a few iuches above the apex 
+of the Dave arches. In this manner was avoided unnecessary 
+walling over the nave piers and arches. 
+
+The inclination of a roof is not a distinguishing feature of 
+either of the Gothic styles, but varies io each from the acutely 
+pointed to the most obtuse angle. 
+
+
+
+SDescription of t\)t |Jlates* 
+
+
+
+DESIGN I. 
+
+
+
+It ft 
+Chanoel, 15 by 25 
+
+Nave, 15 by 45 
+
+Saorigty, 18 by 8 
+
+
+
+It la. It 
+• North Aisle, ) ^ ^ ^ ^^ 
+
+South Aisle, ) 
+
+Organ Chapel, . 10 by 15 
+
+
+
+South Porch, 6 by 7, 
+
+91ate I* 
+
+Perspective View taken from the South West* 
+
+|)late II. 
+
+Horizontal Section or Ground Plan. 
+
+
+
+A. Chancel. 
+
+B. Nave. 
+
+C. North Aisle. 
+
+
+
+D. South Aisle. 
+
+E. Sacristy. 
+
+F. Organ Chapel. 
+
+
+
+G. South Porch, 
+
+
+
+|)late ill. 
+
+Geometrical View of the West Facade. 
+
+Illate IT. 
+Geometrical View of the South Fa9ade. 
+
+|)late T. 
+
+Geometrical View of a Vertical Section of the Design, taken from North 
+to South, looking East. 
+
+
+
+Illate TI. 
+
+Analysis of the Dbsion. 
+
+Fig. 1. Geometrical Drawing of East Triplet Window. 
+" 2. Horizontal Section of the same. 
+
+
+
+I 
+
+
+
+fiOAUL 
+
+4 ft. = Inch. 
+
+
+
+THE EARLY ENGLISH STYLE. 
+
+
+
+79 
+
+
+
+BOAUL 
+
+
+
+Fig. 8. Geometrical Drawing of one of the Nave Piers, ^ 
+with Vertical Sections of Capital and Base 
+Moldings. 
+
+^ 4. Horizontal Section of Nave Arch at the Capital of &gt; 2 ft. = Inch, 
+the Pier. 
+
+^ 5. Horizontal Section of one of the Nave Piers, show- 
+ing the Base. 
+
+** 6. Geometrical Drawing of part of the Chancel Arch, "j 
+
+** 7. Horizontal Section of the same at the Spring of &gt; 2 ft. = Inch, 
+the Arch. J 
+
+*^ 8. Geometrical Drawing of the Set-offl to Buttresses. 4 ft. = Inch. 
+
+The 0Hting0 are about 200 in number. 
+
+
+
+Chancel, . . 
+Nave, . . . 
+Sacristy, . . 
+
+
+
+DESIGN n. 
+
+
+
+ft In. ft. !n. 
+
+. 23 by 30 
+. 23 by 62 
+. 11.6 by 11.6 
+
+
+
+It in. It 
+North Aisle, . . 11.6 by 49 
+
+South Aisle, . . 11.6 by 62 
+
+Tower, 12 by 12 
+
+
+
+South Porch, 8 by 10. 
+
+
+
+|)lau I. 
+
+Perspective View taken from the South East. 
+
+
+
+91au 11. 
+
+Horizontal Section or Ground Plan. 
+
+
+
+A. Chancel. 
+
+B. Nave. 
+
+C. North Aisle. 
+
+D. South Aisle. 
+
+
+
+E. Sacristy. 
+
+F. Organ Chapel. 
+
+G. Tower. 
+
+H. South Porch. 
+
+
+
+|)late III. 
+
+Gteometrical View of the East Fa9ade, showing the Tower to the North 
+West. 
+
+
+
+])laU IT. 
+
+Geometrical View of the South Fa9ade, with the Spire of the Tower 
+omitted. 
+
+
+
+80 
+
+
+
+DESCRIPTION OF PLATES. 
+
+
+
+IPlate r. 
+
+Geometrical View of a Vertical Section of the Design, taken from North 
+to Soath, looking East. 
+
+Plate ri. 
+
+Geometrical View of a Vertical Section of the Design, taken from East to 
+West, looking North. 
+
+Plate ril. 
+Analysis of the Dssign. 
+
+SOALB. 
+
+
+
+&gt;• 4 ft. = Inch. 
+
+
+
+Fig. 1. Geometrical Drawing of the East Triplet Window, 
+showing half of the interior and half of the ex- 
+terior. 
+
+^ 2. Horizontal Section of the same. 
+
+" 8. Geometrical Drawing of Set-offi to Principal But- 
+tresses. 2 ft. = Inch. 
+
+^^ 4. Geometrical Drawing of String Course continued 
+
+around the Building. 1 ft. = Inch. 
+
+" 6. Geometrical Drawing of Set-off to the Second 
+Section of the Tower. 
+
+
+
+" 6. Geometrical Drawing of Set-off to the First Sec- 
+tion of the Tower. 
+
+
+
+4 ft. = Inch. 
+
+
+
+ipiate nil. 
+
+Analysis of the Design (continued). 
+
+
+
+BOAUL 
+
+
+
+C( 
+
+
+
+C( 
+
+
+
+(( 
+
+
+
+(C 
+
+
+
+Pig. 1. Geometrical View of the West Door in the Tower. 4 ft. = Inch. 
+^^ 2. Horizontal Section of Jamb and Archivolt Mold- 
+ings to the same. 2 ft. = Inch. 
+
+3. Section of the Moldings of the Chancel Arch at its ^ 
+
+Spring- I 1 ft. = Inch. 
+
+4. Vertical Section of the Capitals to the Nave Piers. I 
+
+" 6. Vertical Section of the Base to the same. J 
+
+" 6. Geometrical View of the Ends of Two Pews. 2 ft. = Inch. 
+
+7. Vertical Section of the Capping to the Ends of the ^ 
+Pews. 
+
+8. Geometrical Drawing of the Drip Stone termina- 
+tion to the East Triplet Window. 
+
+
+
+»• 1 ft. = Inch. 
+
+
+
+The Sittings are about 400 in number. 
+
+
+
+(SarlB d^njlisj). 
+
+
+
+i^j^ggjj. 
+
+
+
+^^^^ 
+
+
+
+I 
+
+
+
+'I 
+
+
+
+
+
+
+
+SCAMJStf^ 
+
+
+
+
+
+
+
+
+
+so 
+
+
+
+so 
+
+
+
+FEET, 
+
+
+
+J. uiemaji /Art. .Arot ' dti. 
+
+
+
+lith jfSar'j-.rSi.-^ A'T 
+
+
+
+a^tonni ^latt. 
+
+
+
+€arli| ffingltsi;. 
+
+
+
+
+east (Sicvattdn. 
+
+
+
+IX. 
+
+
+
+tcv 
+
+
+
+
+
+
+aB= Sl 'VJ '•^ ir'^' ^^- n: 
+
+
+
+
+
+
+r! 
+
+
+
+1% 
+
+
+
+
+
+
+
+Is 
+
+
+
+tt 
+
+^ 
+^ 
+
+S 
+
+
+
+» 
+
+^ 
+
+^ 
+
+
+
+
+
+
+^'1 
+
+
+
+\ 
+
+
+
+tfailg fnglislf. 
+
+
+
+
+Wtansurtat ^rrfton. 
+
+
+
+(fitrlj tfiiflltah. 
+
+
+
+
+Analjisis. 
+
+
+
+€!irlH (£nglia^. 
+
+
+
+^nsljsis. 
+
+
+
+31 tcovRteb. 
+
+
+
+JtrspfthBf B 
+
+
+
+
+
+
+temples old or altars new, 
+[»— with nothing like to thee- 
+' Ood, the holy and the true." 
+
+
+
+nglish architecture the Dec- 
+ed style is the third, and in 
+lie it is the second. It ex- 
+led over a period of time 
+much more than half that 
+be Early English, or about 
+nty years, commencing in 
+Edward II., or the early part 
+snth century, and continuing 
+greater part of the reign of 
+
+
+
+sh style boasts of its great 
+£tical edifices of simple and 
+andeur. The Decorated, 
+ferior to its predecessor in 
+the number of its edifices, 
+has no equal in magnifi- 
+cent erections or gorgeous 
+display. 
+
+
+
+82 ANALYSIS OF THE 
+
+Among the numerous parish churches of the Early English 
+style there has probably not been found one specimen com- 
+plete — not robbed of its original parts, or free from additions 
+made in conformity to styles growing subsequently into favor. 
+Not so with the churches of the Decorated period. Many 
+still survive, as examples of its purity and beauty, though 
+fallen now into a dilapidated state ; but it is pleasing to know 
+that where profanity and pillage joined hand in hand in 
+ravaging so many of the noblest creations of genius, there a 
+reverent and earnest zeal for the restoration and preservation 
+of ancient edifices has succeeded. The English archaeologist 
+had come to their rescue, and shamed the once sacrilegious 
+people into praiseworthy deeds and a more devout and decent 
+reverence for the houses of God. 
+
+The Early English, as a new creation, needed to pass through 
+a longer period in reaching its maturity. The Decorated grew 
+out of the Early English ; and we owe to it all that is perfect 
+and beautiful in Gothic architecture. When we consider the 
+multitude of previous inventions on which it is founded, and 
+the masterly conceptions of earlier centuries, wherein we note 
+the complete overthrow of the round arch ; then, the short 
+space of time assigned the growth of the Decorated to its 
+maturity seems less remarkable when compared with the pro- 
+gress of the other styles to their perfection. 
+
+This may be called the Central period, "in which Gothic 
+architecture * * * * attained the highest point of 
+graceful proportion and luxuriant beauty." The previous 
+styles are but transitions, and those following it are mere con- 
+tortions of a struggling degeneracy. 
+
+Sculpture, encouraged by the use of carved effigies in niches 
+
+
+
+DECORATED ENGLISH STYLE. 
+
+
+
+83 
+
+
+
+and on monuments, and painting, employed in staining figures 
+upon the window glass, were added, as handmaid arts minis- 
+tering to architecture, distinguished by the same signs of pro- 
+gress towards excellence. And to the sympathetic workings 
+of these arts during this age, must be attributed the magnifi- 
+cent effect of the flowing window tracery, resplendent with 
+the richest colors, and the great beauty of monumental erec- 
+tions, incomplete without their sculptured eflSgies ; and both, 
+blending harmoniously with the sublime architecture of the 
+Gothic interiors and exteriors, produced in a church a superb 
+combination, a worthy symbol of its holy purposes, and a rich 
+oblation to the glory and honor of God. 
+
+The double doorway had been but sparingly used in the 
+churches of the last style. It possesses such exquisite features 
+that, in the rapid progress of architecture at this period, one 
+would suppose it should have been better appreciated and 
+oftener employed in the Decorated style than it was. How- 
+ever, it was not altogether abandoned, but as in the former 
+style, seldom used except in large buildings. 
+
+Decorated doorways were greatly increased in size when 
+compared with the single ones of the Early English style, and 
+though without the centre shaft, are nearly as large as the 
+double doorway heretofore described. 
+
+Their marked characteristics are the ogee drip-stone, inde- 
+pendent of the arch below, either crocketed or terminated 
+with a finial or plain, and the angular arrangement of the drip- 
+stone over the doorways ;* and with the intermediate spaces 
+in both examples relieved in various ways. 
+
+^ The modem nomenclature of this arrangement is " Gabled Doorway/' It is one 
+of the misnomers so common in architecture, and in this instance seems particularly 
+
+
+
+84 ANALYSIS OF THE 
+
+Another feature is, that the shafts are not detached and cut 
+separately, as in the last style, but worked in with the mold- 
+ings and cut upon the jamb stones, having much the same 
+appearance of lightness, but with the addition of greater 
+security. 
+
+The arch moldings are more numerous than those of the 
+Early English doorways. The moldings of the arch falling 
+on the shafts are cut on the rectangular planes, and those that 
+are continuous are cut on the chamfer plane. In some small 
+doorways the moldings are continuous, either carried down 
+to the ground, or cut by splays, or intercepted by base mold- 
+ings. In some examples the arch moldings have feathered 
+tracery, hanging quite free from the inner ones, which pro- 
+duces a rich effect. 
+
+The doorways are seldom without the drip-stone, terminated 
+with its head, or other ornament : it is not so often continued 
+on the walls and around buttresses as formerly. 
+
+The capitals of the shafts, when plain, have two or three 
+sets of moldings, with the bell, and molded astragal at the 
+neck ; when with foliage, the capital differs from the Early 
+English in being more compact, less relieved and without the 
+stems of the leaves on the neck. 
+
+The base moldings are plain and simple, a reversed ogee, 
+or other peculiar form, single or repeated. 
+
+The moldings of the doorways are less complex ; in some 
+instances not so good as those of the last style, and less 
+relieved or undercut. 
+
+inappropriate as a general name, when there is often no semblance of a roof or any 
+approximation to it. The ogee drip-aUme^ could with the same propriety, he designated 
+** gabled," for there are ogee gables, as well as angular gables. But the term ^' gabled" 
+cannot be properly applied to that which has no roof. 
+
+
+
+J I 
+
+
+
+DECORATED ENGLISH STYLE. 
+
+
+
+86 
+
+
+
+When enrichment is introduced, it consists of the peculiar 
+ball-flower, placed at intervals in the hollow moldings ; and 
+also the ball-flower and four-leaved flowers combined with 
+stalks and leaves. 
+
+It is not unusual to find several hollows in a single doorway 
+filled with these enrichments. 
+
+The door is either simply paneled, or ornamented with the 
+exterior iron hinge and its scroll work, but the latter is less 
+frequent than in the previous style. 
+
+
+
+totnb 
+
+
+
+OtO0. 
+
+
+
+The transition from the Early English style was accom- 
+plished in a comparatively short space of time, yet so gradu- 
+ally, and with such an easy flow of one form into another, as 
+fairly to establish a new and peculiar style before the old one 
+was quite dismissed. 
+
+For instance, in the doublet window, or where two single 
+openings are placed side by side, and the intermediate space 
+between their arches and the single arched drip-stone is 
+pierced by an oval, the Early English style is recognized. 
+We trace the transition from this form to the Decorated in a 
+slight reduction of the center pier, more acutely pointed open- 
+ings extending further upward, and the oval lost in the inter- 
+section of their lines, producing a lozenge-shaped perforation, 
+all encompassed as before with a drip-stone. 
+
+Then, again, there is a more definite change in the intro- 
+duction of the muUion, arising out of the reduced pier, the 
+circle in the place of the former oval and lozenge, with the 
+intermediate spaces smaller and conforming to the size of the 
+muUion with their soffit cusping ; a change which shows the 
+
+
+
+86 
+
+
+
+ANALYSIS OF THE 
+
+
+
+development of geometrical tracery or the Decorated window 
+at the beginning of the style. 
+
+There are numerous examples of two-light windows of this 
+construction, varied in design, although windows of the great- 
+est width and number of lights are not foreign to parish 
+churches of this period. 
+
+The tracery of the windows may be divided into two 
+classes ; the geometrical and the flawing ; the former consists 
+of geometrical forms, such as the circle, the lozenge, trefoil, 
+quatrefoil et cetera; the latter, of the same forms harmoni- 
+ously and gracefully blended in the same design by the assist- 
+ance of flowing lines. Geometrical tracery is the oldest, 
+though not so much confined to any definite period as to 
+admit of a regular classification, since it continued to be used, 
+after the introduction of flowing tracery. 
+
+During the progress of this style, there was seen a great 
+and beautiful change in the deepening of the exterior window 
+jamb. Where the jamb moldings were formerly simple, and 
+the glass but slightly recessed, several planes of moldings or 
+splays in the jambs and muUions were now substituted, the 
+chief of these pervading the entire design, with others sub- 
+servient In some instances the exterior or principal mold- 
+ings have capitals and bases, giving them the appearance of 
+shafts ; and, in others, the shaft is more developed, with the 
+arch or tracery moldings falling upon its capital. 
+
+
+
+The muUions, tracery and jambs are sometimes enriched 
+with the ball-flower placed at intervals, with good effect. 
+
+
+
+DECORATED ENGLISH STYLE. 87 
+
+
+
+The drip-stones of the windows are similar to those of the 
+doors. 
+
+The arches of the windows are most commonly equilateral, 
+though there are examples with both the lancet and drop 
+arch : the square-headed window is sometimes used, as well 
+as the segmental. 
+
+Clear-story windows of this style, where confined to parish 
+churches, are very small, and with but few peculiarities. The 
+most common forms are the circle, the spherical triangle and 
+the square, rarely filled with elaborate tracery, but most fre- 
+quently simply trefoiled or quatrefoiled. The interior is 
+generally of a different form from the exterior, oftenest that 
+of the square with its head arched and its jambs widely 
+splayed 
+
+|)ter0 anb Qlrcljee. 
+
+The plan of the Decorated pier is quite simple. Its shafts 
+are engaged, and cut out of the same material with the other 
+members of the pier; and in this respect and also in the 
+squareness of its general outline, lies its principal difference 
+from the Early English pier. 
+
+The octagonal pier, of more delicate proportion than the 
+same pier of the last style, is sometimes used, with either 
+plain or ornamented capitals. Another simple and peculiar 
+plan is that in which the shafts are four semi-circles attached 
+to the sides of a square, with their circumferences touching 
+at its angles. 
+
+These several varieties do not appear to have been so 
+common during. the latter years of the style as the pier of 
+
+
+
+^ 
+
+
+
+88 
+
+
+
+ANALYSIS OF THE 
+
+
+
+four shafts, about two fifths engaged, and, between them, a 
+fillet and a deep hollow half as large as the shafts. 
+
+Although the filleted shaft was first used by the Early 
+English architects, it may be classed as a characteristic feature 
+of this style. 
+
+The capitals are either plain, with single or double sets of 
+moldings, and the bell and astragal; or they are enriched 
+with the foliage peculiar to the Decorated style. 
+
+The bases are most generally simple and with but few 
+moldings. 
+
+The plain chamfered arch was in common use with the 
+octagonal pier, and, in many instances, in churches that were 
+otherwise highly embellished. The ogee form was sometimes 
+employed in the nave arches. 
+
+The buttress, with its arrangements of set-ofis, gables and 
+pinnacles, is a distinguishing feature in the several styles of 
+Gothic architecture ; and it is not a less important feature in 
+construction. 
+
+
+
+Decorated buttresses are usually divided into stages, and 
+with less difference between the projection and the width 
+than in either of the other styles. 
+
+Their set-offs are either plain or relieved by the gablet 
+sometimes trefoiled. In some instances the set-offs are quite 
+diminutive, and occasionally a mere drip-stone is used that 
+but slightly marks the difference of projection in the stages. 
+
+The gabled buttress was more frequently used in this style 
+
+
+
+DECORATED ENGLISH STYLE. 
+
+
+
+89 
+
+
+
+than in any other, and it was not unusual to adorn the face 
+of the upper stage with a molded panel or a trefoil-headed 
+niche. 
+
+Its terminations are various; they are either below the 
+parapet, or carried up to its highest member, or they pass 
+through it and finish in a gable or pinnacle. 
+
+The base table is often without anv moldings, consisting 
+simply of one or more plain slopes or set-offs. That most 
+common is the reversed ogee molding and two plain faces 
+below with a slope between them. Son^etinaes either of these 
+base tablets is continued on the wall ; there are however in- 
+stances where both the wall and buttress are without any 
+base, and also where that of the buttress is not contin\ied 
+on the wall. 
+
+Mo\h\n%0. 
+
+In the early part of this style, rounds and hollows, with 
+the several varieties of the filleted bowtel, were used, resem- 
+bling in many respects those of the last style, but differing 
+from them in the common use of fillets between the larger 
+members, and having less depth of hollows that are arcs of 
+decided circles. 
+
+As the style advanced, many of the most marked features 
+of the moldings just noticed, were abandoned. The filleted 
+bowtel gradually merged into the perfect wave mold, pe- 
+culiar to this style. Sunken splays or chamfers were 
+frequently introduced ; and the scroll molding formed of 
+two segments of a circle of unequal size, is a characteristic 
+of this style. 
+
+At a later period the ogee molding became quite common, 
+
+
+
+12 
+
+
+
+90 
+
+
+
+ANALYSIS OF THE 
+
+
+
+and led to the formation of the double-ogee molding so much 
+used in the Perpendicular style. 
+
+All the combinations were made with much more geomet- 
+rical precision than in the former style, but their arrangements 
+were more easy and graceful, arising from the use in Decorated 
+arches of the chamfer plane in connection with the rectangular 
+planes of Early English arches. 
+
+The enrichments are numerous ; those most frequently met 
+with are leaves, the square-flower and the ball-flower, either 
+separately or in connected patterns with vines between them. 
+
+The ball-flower, so called from its resemblance to a ball 
+inclosed by three or four petals, is peculiar to this style, and 
+was often introduced with fine efiect. Heads, shields and 
+other ornaments were sometimes used. 
+
+
+
+There is little perceptible difference between the roofs of 
+the earlier years of this style and those of the style imme- 
+diately preceding it. The truss-rafter-roof still continued to 
+be in use, though there was a preference given to that of 
+seven cants. The latter is often boarded on the underside of 
+the timbers, below the lowest collar beam, and divided into 
+panels by rib moldings that are ornamented with carved 
+wooden bosses or flowers, at their intersections; with this 
+construction the cants were more equally divided than when 
+left open or unceiled. 
+
+
+
+All that is necessary to be said concerning the inclinations 
+of the wooden roofs of this period may be found by reference 
+
+
+
+DECORATED ENGLISH STYLE. 
+
+
+
+91 
+
+
+
+to the remark on this topic in the corresponding chapter 
+treating of the Early English period. 
+
+As the Decorated style advanced, circular or carved braces 
+were substituted for the angular or diagonal ones. Some- 
+times they were carried down on the walls, terminating in 
+carved corbels of figures or other devices, adding both greater 
+strength and beauty to the roof 
+
+Occasionally the octagonal king post with molded base and 
+capital was again employed, throwing, from its new position, 
+a portion of the weight of the roof upon the collar beam, in- 
+stead of upon the tie beam as formerly. 
+
+In ancient Gothic roofs, the manner of using the tie beam 
+differed in principle from its modern mode of use. The tie 
+beam was used both to assist in stiffening and to hold in their 
+proper positions the exterior walls, and at the same time it 
+received the weight of the roof vertically. 
+
+To gain additional strength, the tie beam was cambered, 
+and there are some Decorated examples where the tie beam 
+answers for rafters as well, — Shaving been hewn out of one 
+large piece of timber, with curved braces continuing from 
+the camber of the beam and distributing part of its load on 
+the walls. 
+
+The low tie beam roof was frequently used towards the 
+latter part of this period. 
+
+
+
+Decorated roofs are various and of great beauty; some 
+being truly beautiful in their unadorned simplicity, while 
+others are skilfully embellished to relieve what would appear 
+nude if destitute of ornament. 
+
+
+
+02 ANALYSIS, ETC. 
+
+Enrichments of various kinds peculiar to the style were 
+carved upon the timbers, and it was during the Decorated 
+period that the Gothic architects excelled all others in the 
+beauty of their designs for wood-work and in the excellence 
+of their execution. 
+
+
+
+t. John'*, Wlnoha»t&lt;»r.* 
+
+
+
+3etotntth . 
+
+
+
+DESIGN ni 
+
+
+
+PLATE II. 
+
+
+
+
+J. Caifuvi &amp;rt ^r^^ dd 
+
+
+
+Lxtk.!^S&lt;ur^jl&amp;.MY. 
+
+
+
+C^riTttnir "Jflatt . 
+
+
+
+21 era rat r D . 
+
+
+
+
+"Wfst f^levnlion. 
+
+
+
+
+
+
+« 
+u 
+
+» 
+
+u 
+
+
+
+c-. 
+
+
+
+
+• __•—'_ — 4- 
+
+
+
+h ^ — -^- 
+
+
+
+■r^ 
+
+
+
+
+
+
+
+--r^^ll l l ll li m i lll QII 
+
+
+
+
+
+
+
+
+
+
+v. 
+
+
+
+
+
+
+
+
+
+^ 
+
+
+
+I 
+
+
+
+&gt; 
+
+
+
+^^raratrlr. 
+
+
+
+DESIGN ra 
+
+
+
+PUTEV 
+
+
+
+
+
+
+
+^^ij«^^«^^5*3r 
+
+
+
+Litk&lt;/'SsnmifA C* -IfTJ' 
+
+
+
+tEraitsirrrBr S'rrtian. 
+
+
+
+Jttaratf 8. 
+
+
+
+
+^naljsis. 
+
+
+
+B ecotixteif 
+
+
+
+Jrom lljtSoriri'tDMt, 
+
+
+
+miestnption of tt)e fllates. 
+
+
+
+DESIGN m. 
+
+ft. 
+
+
+
+Ghanoel, 20 by 25 
+
+Nave, 26 by 60 
+
+Sacristy, 8 by 10 
+
+
+
+North Transept, ) .^^ ^ ^g 
+
+South Transept, ) 
+
+North Porch, . . 7 by 7 
+
+
+
+South Porch, 7 by 7. 
+
+Illau It 
+
+Perspective View taken from the North West. 
+
+Dlau II. 
+
+Horizontal Section or Ground Plan. 
+
+
+
+A. Chancel. 
+
+B. Nave. 
+
+C. North Quasi-Transept. 
+
+D. South Quasi-Transept. 
+
+
+
+E. Sacristy. 
+
+F. Organ Chapel. 
+
+G. North Porch. 
+H. South Porch. 
+
+
+
+Illau III. 
+
+Geometrical View of the West Fa9ade. 
+
+DlaU IT. 
+
+Geometrical View of the South Facade, with the apex of the Spire omitted. 
+(See West Fa9ade.) 
+
+Illate T. 
+
+Geometrical View of a Vertical Section of the Design, taken from North 
+to South, looking East. 
+
+IllaU ¥1. 
+
+AlTALYSIS OF THB DbSIOK. 
+
+SOAUL 
+
+Fig. 1. Geometrical Drawing of one of the Nave Windows. ) o a — t i, 
+^^ 2. Horizontal Section of the same. ) '~ 
+
+
+
+J 
+
+
+
+I'E ":&gt;N IV. 
+
+
+
+^ectfvatei . 
+
+
+
+TUTE II 
+
+
+
+S 
+
+
+
+JiL _ ' 
+
+
+
+o 
+
+
+
+SCALE t£ 
+
+
+
+^FBET. 
+
+
+
+
+
+J CaUnim/v Ifcui . Artk*JtL 
+
+
+
+Xitk- afSvTtf 4 Ca JT Y 
+
+
+
+^rattttJt ^iatt. 
+
+
+
+5 rrux-atfd . 
+
+
+
+Wtst €iritaliun. 
+
+
+
+"frorajrii. 
+
+
+
+fi-ait»»rr»r .«rrti»„. 
+
+
+
+J eccxatei. 
+
+
+
+
+A n a 1 1] » i 9 . 
+
+
+
+iJrcarittrir. 
+
+
+
+^ivAigsis. 
+
+
+
+She 
+
+|)frpenbic«lar €nglisl) 0tgle. 
+
+
+
+" thy decay 
+
+gnat« with divinity, 
+
+it with revivifying i»y ;*' 
+
+
+
+PENDICULAR Gothic architect- 
+! prevailed through a period of 
+lut one hundred and seventy 
+irs. It succeeded the Decorated 
+le ill the beginning of the reign 
+King Richurd II., or about the 
+ir one thousand three hundred 
+1 seventy-seven, and continued to 
+)art of the reign of King Henry 
+jout the middle of the sixteenth 
+
+
+
+ig to the chronology of some 
+I limit of its career might be es- 
+•y later; but so to prolong the 
+a would be great injnstice to the 
+style, which now constitutes a 
+distinct and pure class of Gothic 
+architecture. It possesses its 
+own peculiarities, whicli are 
+
+
+
+98 
+
+
+
+ANALYSIS OF THE 
+
+
+
+certainly not without merit. If we include among its monu- 
+ments and structures the edifices of the succeeding age — 
+a period of total debasement — we subvert the proper order 
+of classification, and render the style as a whole less worthy 
+of study. 
+
+Numerous magnificent buildings were erected during the 
+time that has been allotted to the complete development of 
+the Perpendicular style, a majority of which are still in a 
+good state of preservation. The culminating point of its 
+development may be fixed in the reign of the eighth Henry. 
+From this time its course was retrograde, and but few entire 
+edifices in the pure Perpendicular style were erected, most 
+of the works of the age being additions and alterations, in old 
+buildings, and these generally meagre and greatly debased. 
+
+If the Decorated style be the acknowledged perfection of 
+Gothic architecture, the summit of architectural excellence 
+attained in the middle ages— and such an opinion has long 
+since been received — we cannot expect to find in a transi- 
+tional style, as the Perpendicular must then be deemed, the 
+purities, beauties and excellences which pertain to but one 
+perfect Gothic style. The Early English is, in the same man- 
+ner, but a transition. It assisted in the perfecting of another 
+style. It is the incipient state of Gothic art ; yet it is not on 
+this account to be depreciated, since it contained in itself the 
+germ which was subsequently expanded and developed into 
+the Decorated style. So with the Perpendicular. Deriving 
+its character from the purest source, its prolonged transition 
+gradually led to a debasement, perhaps not so deplorable as 
+that chaos of art from which the Early English Gothic first 
+issued. 
+
+
+
+I 
+
+
+
+PERPENDICULAR ENGLISH STYLE. 
+
+
+
+99 
+
+
+
+The Perpendicular style may have more modern advocates 
+than the Early English and the Decorated ; yet to disparage 
+these styles, for the purpose of exalting the former, can only 
+argue the advocates' ignorance in art. Not more judiciously 
+can the beautiful intricacies of the Perpendicular style be 
+sacrificed to the grand simplicity of the Early English or the 
+graceful combinations of the Decorated. Some of its works, 
+executed even during the period of its most debased state, 
+still remain to 
+
+" Shame the weak efforts of art's latest stage." 
+
+"As the habit of gazing on peculiar forms, by degrees 
+begets a taste for them, and as those which utility first de- 
+mands, even when that utility ceases, still are perpetuated by 
+the inclination it produces — ^as even consistency and taste 
+require the ornamental additions to harmonize in their outline 
+and character with the fundamental groundwork ; those essen- 
+tial forms, all slender and tall and sharp ; those long thin pil- 
+lars ; those narrow and lofty interstices ; those pointed arches, ^ 
+reduplicated laterally and over each other in endless repeti- 
+tions and intersecting each other in every way, were imitated 
+and repeated and carried to innumerable lesser and more 
+minute subdivisions in the mere ornamental parts, until at 
+last, religious edifices, with their pinnacles, and spires and 
+broaches, and cusps and corbels and tabernacles and tracery 
+and ridge bands, looked like a mass of network, or rather a 
+cluster of mere conductors, t¥ t¥ t¥ * t¥ * na and after having 
+attained the greatest sharpness, at least, as if weak with old 
+age and sinking, it exhibited a depression in its arches, and 
+even a bulging downwards in the form of pendants, ere it was 
+completely overthrown, and dissolved."* 
+
+o Hope's Historical Essay on Architecture. 
+
+
+
+100 
+
+
+
+ANALYSIS OF THE 
+
+
+
+The overthrow of Gothic architecture in England, or more 
+particularly the Perpendicular, the last of the Gothic styles, 
+concluding a long and brilliant career of art, has been attrib- 
+uted to the introduction, by foreign artists, of the Italian 
+style. This opinion does not seem to be correct, if we mi- 
+nutely examine the component parts of the debased archi- 
+tecture, struggling to uphold itself in its degenerate state at 
+the time of the opportune importation of the foreign style. 
+There was a yearning, an almost perceptible leaning towards 
+a. new style, that might have resulted, had its progress been 
+unretarded, in a semblance at least of the Italian style. This 
+tendency is apparent in the introduction, as a principle, of 
+horizontal lines throughout the design — ^to a degree so fre- 
+quent, indeed, that, in most instances, they predominated 
+over the vertical lines, but were nevertheless niade, by skilful 
+management, to harmonize with them. 
+
+It was by thus mingling the horizontal with the vertical, 
+while the former predominated, that the Perpendicular was 
+fully prepared to receive and engraft upon its stock any scion 
+of congenial nature. Hence the Italian was ultimately revived 
+through the mongrel and short-lived transition, called the 
+Elizabethan. 
+
+
+
+IDoonDa])0. 
+
+
+
+As in all the styles of architecture, notwithstanding there 
+may be sufficient allowance made for a transition from one to 
+another, there will always linger a remnant of some conspicu- 
+ous form whereon to engraft fresh inventions, and, by a com- 
+bination entirely original, to create new peculiarities that can 
+be classed as belonging to a particular epoch. 
+
+The principle is particularly illustrated in the beginning of 
+
+
+
+PERPENDICULAR ENGLISH STYLE. 101 
+
+this style. The pointed arched doorway of the Decorated 
+style was still retained, with its accompanying ogee drip- 
+stone, though the latter was arranged, in the design, as sub- 
+servient to the new inventions of the period. At first, the 
+outer moldings were carried up vertically and at right angles 
+with those running horizontally over the doorway, and thus 
+forming an approximation to right-angled triangles, with the 
+hypotenuse of an ogee form ; the inclosed spaces commonly 
+known as spandrels, were generally ornamented at this transi- 
+tion period, with the circle variously foiled. 
+
+This seems to be the incipient state of the square labeled 
+doorway so characteristic of the Perpendicular style. Occa- 
+sionally the vertical moldings of the label were continued 
+upward to meet the tower drip-stone, in this design, and, at 
+a subsequent period, when the four-centered arch was intro- 
+duced, the ogee drip-stone was laid aside, and greater promi- 
+nence was given to an independent, square drip-stone or 
+label. The spandrels thus formed were now filled either with 
+circles, armorial bearings, or rich foliage of great variety of 
+design. 
+
+The moldings — ^generally worked on the chamfer plane, 
+though not with the precision of the last style — ^are either 
+continuous, finishing on the chamfer ; or those most prominent 
+terminate with bases; or those of the arch are carried on 
+small shafts. The latter have octagonal capitals that are vari- 
+ously molded — generally with the cyma-recta as the principal 
+— or are sometimes enriched with foliage peculiar to the style ; 
+and octagonal bases, easily recognized by their peculiar stilted 
+character and ogee moldings. 
+
+
+
+In small doorways, the spandrel and square drip-stone are 
+
+
+
+102 
+
+
+
+ANALYSIS OF THE 
+
+
+
+sometimes omitted, and the drip-stone is made to conform to 
+the four-centered arch of the doorway. 
+
+The doors at this period were ornamented with elegant 
+traceried panels, instead of the iron scroll work common to 
+the previous styles ; though perhaps as many are still found 
+quite plain, or without any embellishment, save that of orna- 
+mented nail heads. 
+
+
+
+)tltn5otD0. 
+
+The windows in ancient Gothic structures are the principal 
+criteria by which certain peculiarities of a style are most easily 
+discerned. In the preceding style, the flowing tracery stamps 
+it as Decorated at once ; while in the style we are now con- 
+sidering it is not more difficult to arrive at a correct conclu- 
+sion from the prevalence throughout of tracery of a vertical 
+or perpendicular character. 
+
+The super-mullion was still continued, and became by its 
+common use almost a characteristic of this style. It is em- 
+ployed mostly in large windows to define or separate sections 
+or combinations of lights, while the intermediate spaces are 
+subdivided into smaller lights of great variety of form. 
+
+The outer member of the principal muUion is more fre- 
+quently made continuous than divided by a capital ; but with 
+this arrangement the peculiar base continues still in use. 
+
+
+
+The transom was occasionally used by architects towards 
+the latter part of the Decorated period, but was distinguished 
+by much simplicity : and, as the windows of the succeeding 
+
+
+
+PERPENDICULAR ENGLISH STYLE. 103 
+
+style became enlarged by the addition of a greater number 
+of lights, this useful member seems to have been called into 
+immediate requisition, and it afterwards attained such impor- 
+tance as to constitute a marked characteristic of the Perpen- 
+dicular style. 
+
+As in the doorways, so was the four-centered arch employed 
+in the windows, at the time when the Perpendicular may be 
+said to have reached its zenith. With the introduction of this 
+feature, there appears a revulsion in the arrangement of the 
+window tracery, or at least greater encouragement was given 
+to the construction of the tracery below the spring of the arch, 
+making the arch look as if it were stilted. 
+
+Tracery, having the appearance of pierced foliated panels, 
+reduplicated throughout, subsequently pervaded the general 
+design ; and in some examples the square drip-stone of the 
+doorways, with its ornamented spandrels, is used in the 
+window. 
+
+ft 
+
+Other arches besides the pointed and four-centered were 
+used at a late period, generally partaking of a debased char- 
+acter and unworthy of the student's attention. 
+
+Clear-stories became in this style one of the principal and 
+most conspicuous features of the nave, and therefore greater 
+improvement is to be remarked in the windows belonging 
+to them. 
+
+The square-headed, the pointed, and the four-centered arch 
+were those most frequently used, and sometimes the windows 
+were so closely placed as to reduce the intermediate piers to 
+a less width than that of the openings. 
+
+
+
+104 
+
+
+
+ANALYSIS OF THE 
+
+
+
+While we find at times in this style many of the forms 
+common to the previous styles, ornamented with purely 
+Perpendicular moldings, it has still its own peculiar forms. 
+There is the lozenge-shaped pier, or the square, placed 
+diamond-wise, and contracted between the arches from east 
+to west, which is distinctive of this style ; and so also is the 
+manner of continuing certain moldings of the pier up into 
+the arch without interruption at its spring. 
+
+In some examples, the small pier shaft is entirely omitted, 
+and all of the pier moldings are continued in a similar manner 
+up into the arch. 
+
+The capitals of the shafts are foliated, or have the moldings 
+peculiar to the style, and the semi-octagonal neck. 
+
+The base has the ogee molding, and its plinth is semi- 
+octagonal and very much stilted. 
+
+The arches vary from the acute-pointed to the four-centered ; 
+the latter may be said to have superseded all others towards 
+the conclusion of the period. 
+
+
+
+The most marked change in the buttress consists in the 
+reduction of its width and an increase of its projection. The 
+favorite manner of working it was in two stages — though 
+more were not infrequent — with plain slopes or set-oflfs gene- 
+rally at a sharp angle, or with very little inclination. These 
+weatherings were often a series of moldings peculiar to the 
+style. 
+
+
+
+While pinnacles in the Decorated style, were chiefly con- 
+fined to turrets and to particular parts of a building, they 
+were in this style more fully developed and made common to 
+all parts — ^as well in the aisles as the clear-story and the 
+chancel. 
+
+The crocketed and finiaPd gable and the paneled faces of 
+the buttress are also common to this style. 
+
+Angular buttresses were often used, but not with the same 
+frequency as in the last style.* 
+
+The base sometimes consists of a series of moldings, with 
+their intervening tablets ; but that which was most often used, 
+is the shallow ogee with hollows, splays and tablets. 
+
+In the combinations of the Early English style it will have 
+been observed that there is an equilibrium prevailing between 
+the moldings and the hollows, or that as great importance is 
+given to the one as to the other. But as we proceed to the 
+Decorated style there is a more consistent combination of 
+moldings and hollows ; the former are more in groups and 
+divided by the latter, giving greater character and import 
+ance to the primary instead of the secondary parts of com- 
+binations of moldings. Again, as we advance still further, 
+in the Perpendicular style this perfect combination seems 
+entirely lost and forgotten, and the hollow predominates, and 
+is expanded to its utmost capacity, the moldings becoming 
+mere appendages, instead of primary forms! 
+
+o The angular buttress is not peculiar to any one period of Gothic architecture, but 
+is common to all. 
+
+
+
+14 
+
+
+
+106 ANALYSIS OF THE 
+
+There is no feature of this style that so readily marks its 
+transition or debasement from a purer architecture, as its 
+moldings. 
+
+The hollow becomes, as the style advances, a shallow case- 
+ment. The moldings are connected without regard to beauty 
+of effect. The bead and the wave molding of the last style, 
+and the double ogee are, though in common use throughout 
+this style, of little character, because of the shallowness of 
+their segments. The ogee molding, used in all the styles, 
+was very common in this ; but, like most of the other Per- 
+pendicular moldings, it is ineffective through its want of bold 
+outline and sufficient depth of shadow. 
+
+A characteristic, and a growth of this style is the undu- 
+lating molding, or a combination of the wave and the ogee 
+moldings, somewhat resembling the bowtel of the last style, 
+with its single fillet rounded, though much inferior. 
+
+To the open and naked character of the hollow used with 
+the moldings, doubtless may be attributed the great variety 
+and superabundance of enrichment peculiar to this style ; it 
+has flowers, fruit, heads, animals, clumps of leaves or flowers, 
+and escutcheons, either single or in running patterns, and 
+generally well executed. 
+
+The Tudor flower, a growth of this style, is ordinarily used 
+as a battlement, or placed upon the transoms of windows. 
+
+Of roofs of this period I have to note three varietiea 
+They may be classed T^espectively as the hammer-beam roof, 
+the collar-braced roof and the tte-beam roof. The first of these 
+
+
+
+PERPENDICULAR ENGLISH STYLE. 
+
+
+
+107 
+
+
+
+may be said to have originated in the early part of this 
+period, though it was not in general use until much later. 
+
+Some writers have explained its origin by supposing that 
+the central portion of the tie-beam was sawn out, in an already 
+constructed roof ; the abundance of lateral resistance found 
+in the walls and buttresses, kept the roof equally as secure. 
+
+To the hammer-beam roof, in its incipient state, vertical 
+wall pieces and curved braces were afterwards added, both 
+above and below, which carried the superincumbent weight 
+to the walls, yielded additional support, and relieved the roof 
+of its former angular outline. 
+
+The collar-braced roof seems to have grown out of the roof 
+just described; the projection of the hamnier-beams grew 
+gradually less and less, the braces which they supported still 
+following them, until, nearly united with the braces below the 
+hammer-beam, their contour appeared a continuation of the 
+principal arched braces carried to the walls. Thus originated 
+the collar-braced roof. 
+
+In this construction the hammer-beam was entirely omitted, 
+and the principal arched braces were framed into the vertical 
+pieces placed against the walls. 
+
+The tie-heam roof was most commonly used in the latter 
+part of this period. In some examples the pitch or inclina- 
+tion of the roof is very low — so low, indeed, that often it 
+admits of no framework, but is supported by a tie-beam cam- 
+bered and constituting a principal 
+
+This defect in the elevation of the interiors of the Perpen- 
+dicular naves was to some extent obviated by the introduc- 
+tion of braces into the angles formed by the tie-beam and 
+the external walls — the braces being so united with the tie- 
+
+
+
+ANALYSIS, ETC. 
+
+
+
+beam (or rafler) that the whole appears as one continuous 
+wooden arch. 
+
+All of these forms of roof admit of great variety of omar 
+ment. Sometimes the rafters are ceiled, and the spaces be- 
+tween the principals are subdivided with panels, with molded 
+ribs, and adorned with tracery. It was not unasual to carve 
+the hammer-beams so as to represent angels, in various atti- 
+tudes, bearing shields and other appropriate emblems. 
+
+Although many roofs of this period are extremely simple 
+and devoid of ornament, the greater part of them abound in 
+embellishments, of pierced traceried panels, niches, figares, 
+and the Tudor and other flowers. 
+
+
+
+• or OunbiUcaUn, 
+
+
+
+DE^'IGN V. 
+
+
+
+IftxvtntxtViUr. 
+
+
+
+G 
+
+
+
+
+«c4ur^UlLU 
+
+
+
+FSBT. 
+
+
+
+
+J Caiem^A/Jivi. JlnK ^jid. 
+
+
+
+^^^^^T^T^ 
+
+
+
+Clirattttlr ^Inn. 
+
+
+
+
+
+
+
+a. 
+
+
+
+
+
+
+4,^ 
+
+
+
+lu: 
+
+
+
+/t J-Jn 
+
+
+
+
+
+
+■&gt;•■(. '^^^ /•■ - 
+
+
+
+1 
+
+
+
+XJ-ttj^': 
+
+
+
+-1 
+
+
+
+
+
+
+■■-TT^l-V ■ 
+
+
+
+
+
+
+e= 
+
+
+
+Sv-*2~ &lt;•"• """^ 
+
+
+
+»!• I 
+
+
+
+
+
+
+W'.'^- 
+
+&gt;- 'J, 
+
+
+
+I 
+
+
+
+
+
+
+
+' l&lt;&gt; 
+
+
+
+-IW«i| 
+
+
+
+/\A" 
+
+
+
+
+
+
+anr C&gt;VV*:/M , L--. 
+
+
+
+
+yiinEiig:; 
+
+
+
+
+
+
+L — .-:, i-, 
+
+
+
+^N,- 
+
+
+
+■Ot 
+
+
+
+
+I 
+
+
+
+
+
+
+V 
+
+
+
+
+
+
+f1 
+
+
+
+5 
+
+
+
+"Pi'rprnftirular . 
+
+
+
+^nttlgaiit. 
+
+
+
+fexpfnificuUt. 
+
+
+
+
+
+
+IHedcnption of tl)e plates. 
+
+
+
+DESIGN V. 
+
+ft 
+
+
+
+Chancel, 22 by 27 
+
+Nave, 22 by 65 
+
+Sacristy, 9 by 10 
+
+
+
+North Transept, ) ^^ , ^2 
+
+South Transept, ) 
+
+North Porch, . . 8 by 9 
+
+
+
+South Porch, 8 by 9. 
+
+Illate I. 
+Perspective View taken from the South West. 
+
+IllaU II. 
+
+Horizontal Section or Ground Plan. 
+
+D. South Transept. 
+
+E. Sacristy. 
+
+F. North Porch. 
+
+
+
+A. Chancel. 
+
+B. Nave. 
+
+C. North Transept. 
+
+
+
+G. South Porch. 
+
+Dlale III. 
+
+Geometrical View of the East Fasade. 
+
+Illate IT. 
+
+Geometrical View of a Vertical Section of the Design, taken from North 
+to South, looking East. 
+
+Illate T. 
+
+Geometrical View of the North Fasade. 
+
+Illate TI. 
+
+Analysis of thb Design. 
+
+
+
+Fig. 1. Geometrical Drawing of the North and South Win- 
+dows of the Transepts. 
+^ 2. Horizontal Section of a part of the same. 
+
+
+
+SOAUl 
+
+4 ft. = Inch. 
+
+
+
+no 
+
+
+DESCRIPTION OF PLATES. 
+
+
+1 
+
+
+Fig. 
+
+
+. 3. Section of the Arch and the Drip-Stone Moldings 
+
+
+SOAU. 
+
+
+
+
+to the North and South Windows of the Tran- 
+
+
+1 ft. = Inch 
+
+
+
+
+septs — ^at the Spring of the Arch. 
+
+
+and half. 
+
+
+(( 
+
+
+4. Section of the Tower Arches. 
+
+
+1 ft. = Inch. 
+
+
+i( 
+
+
+6. Profile of Set-oiffl to the Principal Buttresses. 
+
+
+4 ft. = Inch. 
+
+
+u 
+
+
+6. Vertical Section of the Base Molding around the 
+
+
+, 
+
+
+
+
+Building. 
+
+
+2 ft. = Inch. 
+
+
+4C 
+
+
+7. G^metrical Drawing of the West Door of the 
+
+
+
+
+
+
+Nave. 
+
+
+4 ft. = Inch. 
+
+
+U 
+
+
+8. Horizontal Section of the Jamb Moldings to the 
+
+
+
+
+
+
+same. 
+
+
+I ft. = Inch. 
+
+
+
+
+The 0ttttng0 are about 880 in number. 
+
+
+
+
+
+
+DESIGN VL 
+
+
+
+
+
+
+ft ft.ftn. 
+
+
+
+
+It ft In. 
+
+
+
+
+Chancel, 22 by 33.6 
+
+
+North Aisle, 
+
+
+. 11 by V2.6 
+
+
+
+
+Nave, 22 by 72.6 
+
+
+South Aisle (including |. ^ | y,^ ^g 
+
+
+
+
+Sacristy, 12 by 20 
+
+
+Organ Chapel), . . 
+
+
+J - ^. - 
+
+
+
+
+Tower, 16 by 16 
+
+South Porch, 
+
+
+North Porch 
+
+
+. 10 by 10 
+
+
+10 by 10. 
+
+
+
+
+Iplate I. 
+
+
+
+
+
+
+Ferspeotive View taken from the South West 
+
+
+
+
+
+
+Iplate II. 
+
+
+
+
+
+
+Horizontal Section or Ground Plan. 
+
+
+
+
+
+
+A. ChanceL 
+
+
+E. South Aisle. 
+
+
+
+
+
+
+B. Sacristy. 
+
+
+F. Organ Chapel. 
+
+
+
+
+
+
+C. Nave. 
+
+
+G. Tower. 
+
+
+
+
+
+
+D. North Aisle. 
+
+
+a North Porch. 
+
+
+
+
+
+
+I. South Porch. 
+
+
+
+
+
+
+Dlate III. 
+
+
+
+
+
+
+Geometrical View of the West Fa9ade. 
+
+
+
+
+
+
+Illate IT. 
+
+
+
+
+
+
+Geometrical View of the Soiith Fa9ade, with the Spire 
+
+
+omitted. 
+
+
+J 
+
+
+
+PERPENDICULAR ENGLISH STYLE. ill 
+
+
+
+illaU ?. 
+
+Geometrical View of a Vertical Section of the Deagn, taken from North 
+to Soath, looking West. 
+
+lllate ?I. 
+
+Geometrical View of a Vertical Section of the Design, taken from East to 
+West, looking North. 
+
+lllate ?n. 
+
+Analysis of thb Dbsiok. 
+
+
+
+SOAUL 
+
+
+
+
+Inch. 
+
+
+
+Pig. 1. Greometrical Drawing of the East Window in the 
+
+Chancel. 
+*^ 2. Horizontal Section of the same. 
+" 8. Section of the Arch, Dripstone, and Mullion to 
+
+the East TVlndow in the Chancel 1 ft. = Inch. 
+
+'^ 4. Geometrical Drawing of one of the Spandrels to 
+
+the West Door. 2 ft. = Inch. 
+
+|)lau Till. 
+
+Akaltsis of tkb Dbsiok (continued). 
+
+
+
+iC 
+
+
+
+(C 
+
+
+
+Fio. 1. G^metrical Drawing of the West Door in the 
+Tower. 
+
+2. Horizontal Section of the Shafts and Jamb Mold- 
+ings to the same. 
+
+3. Vertical Section of the Base Molding to the Shafts 
+of the West Door in the Tower. 
+
+" 4. Vertical Section of the Base Moldings to the 
+Tower — the lower ones of which are continued 
+around the Building. 
+
+** 6. Geometrical Drawing of one of the Nave Piers, 
+with a part of one of the Nave Arches. 
+
+" 6. Horizontal Section— half of one of the Nave Piers 
+at the Base and at the Capital. 
+
+" 7. Vertical Sections of the Capital an4 the Base to 
+the Nave Piers. 
+
+" 8. Vertical Section of the Parapet to the Aisles, with 
+a Profile of one of the Gargoyles. 
+
+" 9. Greometrical Drawing of the Set-offib to the Tow- 
+er Buttresses. 
+
+
+
+SOAUL 
+
+4 ft. = Inch. 
+
+1 ft. = Inch. 
+
+1 ft. = Inch 
+and half. 
+
+
+
+1 ft. 
+4 ft. 
+
+2 ft.. 
+
+1 ft. 
+
+2 ft. 
+4 ft. 
+
+
+
+:Inch. 
+Inch. 
+Inch. 
+Inch. 
+Inch. 
+Inch. 
+
+
+
+The Sittings are about 510 in number. 
+
+
+
+If exyijenixt nlar. 
+
+
+
+DESIGN V] 
+
+
+
+PUTE IT. 
+
+
+
+
+gCHJgrfft*"! I 
+
+
+
+si FBBT. 
+
+
+
+J GiemviHart. JinkfdA. 
+
+
+
+Litk ofSannv i (i Jf.X 
+
+
+
+(^rirunJ* "JjTtan. 
+
+
+
+crVfnftii'nlBr. 
+
+
+
+
+"WfBt (^IftJatimt. 
+
+
+
+"^rrprnliiruiar. 
+
+
+
+
+\lran»vtr»t jS'ertion. 
+
+
+
+|lerprndtfulitr. 
+
+
+
+^nalg id. 
+
+
+
+"jjfrijpniitftilar. 
+
+
+
+^ 
+
+
+
+jB^lits^^ 
+
+
+
+^ n a 1 J 9 i ? . 
+
+
+
